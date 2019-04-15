@@ -1,3 +1,8 @@
+This is a template to create presentations written in Markdown and compile them
+to HTML with [reveal.js](https://revealjs.com/).
+It uses a style similar to the LaTex templates for the corpus linguistic group (Junicode font, Humboldt Universität zu Berlin logo and colors).
+Remember to follow the [HU guidelines](https://www.hu-berlin.de/de/hu-intern/design/downloads/logo/standardseite) when using the logo.
+
 # Prerequisites
 
 Install Pandoc (https://pandoc.org/) for converting the markdown files to HTML.
