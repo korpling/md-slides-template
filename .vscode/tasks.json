@@ -18,7 +18,7 @@
         {
             "label": "Pandoc (self-contained)",
             "type": "shell",
-            "command": "pandoc -t revealjs -s --filter pandoc-citeproc --template=templates/default.revealjs --self-contained ${file} -o ${fileBasenameNoExtension}_selfcontained.html ",
+            "command": "pandoc -t revealjs -s --filter pandoc-citeproc --template=templates/default.revealjs --self-contained ${file} -o ${fileBasenameNoExtension}.self.html ",
             "problemMatcher": []
         }
     ]

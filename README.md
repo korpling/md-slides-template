@@ -18,8 +18,20 @@ make
 ```
 will compile all markdown files (`.md`) ending to HTML files with the same name.
 
-You can remove the files with
+You can remove the compiled HTML files with
 ```
 make clean
 ```
 
+To recompile the CSS after changing the `reveal.js/css/theme/humboldt.scss` file execute
+```
+make css
+```
+
+The generated HTML files will compile fast, but need the whole repository (including the images, CSS and JavaScript) to work properly. 
+To create a self-contained version, which only needs the HTML itfself call
+```
+make self
+```
+This will be much slower, but the generated `.self.html` file can be copied and
+used independently of the rest of the files.
