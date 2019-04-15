@@ -1,6 +1,6 @@
 This is a template to create presentations written in Markdown and compile them
 to HTML with [reveal.js](https://revealjs.com/).
-It uses a style similar to the LaTex templates for the corpus linguistic group (Junicode font, Humboldt Universität zu Berlin logo and colors).
+It uses a style similar to the LaTex templates for the corpus linguistics group (Junicode font, Humboldt Universität zu Berlin logo and colors).
 Remember to follow the [HU guidelines](https://www.hu-berlin.de/de/hu-intern/design/downloads/logo/standardseite) when using the logo.
 
 # Prerequisites
@@ -38,7 +38,7 @@ make css
 ```
 
 The generated HTML files will compile fast, but need the whole repository (including the images, CSS and JavaScript) to work properly. 
-To create a self-contained version, which only needs the HTML itfself call
+To create a self-contained version, which only needs the HTML itfself, call
 ```
 make self
 ```
