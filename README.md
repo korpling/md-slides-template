@@ -3,6 +3,10 @@
 Install Pandoc (https://pandoc.org/) for converting the markdown files to HTML.
 You can optionally install pandoc-watch (https://github.com/dloureiro/pandoc-watch) if you want to generate the slides in the background whenever the markdown file changes.
 
+# Write Markdown
+
+See the Pandoc documentation at https://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc for how to write Slides with Markdown.
+
 # Compiling the slides
 
 You can 
@@ -35,3 +39,34 @@ make self
 ```
 This will be much slower, but the generated `.self.html` file can be copied and
 used independently of the rest of the files.
+
+# Pre-defined styles
+
+Pandoc Markdown supports so-called “fenced divs” (https://pandoc.org/MANUAL.html#divs-and-spans). These blocks can have CSS classes assigned to them.
+You can change the theme in the file  `reveal.js/css/theme/humboldt.scss` and re-compile the CSS to add new CSS styles.
+
+Here is a list of already existing styles that you can use:
+
+- `center` to center a text block
+- `alert` for text that should be marked as extra important
+- `small`, `large` and `huge` alter the font-size
+- `underline` creates underlined text
+- `col-container` is a wrapper style around divs with the style `col` to create columns, e.g.
+```
+::: {.center .col-container}
+
+::: col
+
+*First column*
+
+::: 
+
+::: col
+
+*Second column*
+
+:::
+
+:::
+```
+
