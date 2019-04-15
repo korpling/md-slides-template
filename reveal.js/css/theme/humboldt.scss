@@ -1,0 +1,136 @@
+/**
+ * White theme for reveal.js. This is the opposite of the 'black' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "template/mixins";
+@import "template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(../../lib/font/junicode/Junicode.css);
+@import url(../../lib/font/source-code-pro/source-code-pro.css);
+
+$HuBlue: rgb(0,55,108);
+$HuGreen: rgb(0,87,44);
+$HuAlert: rgb(251, 63, 62);
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: #fff;
+
+$mainColor: #222;
+$headingColor: #222;
+
+$mainFontSize: 28px;
+$mainFont: 'Junicode',  'Times New Roman', serif;
+$headingFont: 'Junicode', 'Times New Roman', serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingFontWeight: normal;
+$headingMargin: 0 0 $blockMargin 0;
+$linkColor: #2a76dd;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+
+section.has-dark-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #fff;
+	}
+}
+
+// Theme template ------------------------------
+@import "template/theme";
+// ---------------------------------------------
+
+
+.reveal {
+	
+	section {
+		text-align: left;
+		padding: 0px;
+	}
+
+
+	section img {
+		border-style: none;
+		border-width: 0px;
+		box-shadow: none;
+	}
+
+	h1.title {
+		padding-right: 150px;
+	}
+
+	h2 {
+		color:#ffffff !important;
+		background-color: $HuBlue;
+		font-size: 32px;
+		text-align: left;
+		padding: 10px;
+		margin-left: -10px;
+		margin-right: -10px;
+	}
+
+	code {
+		font-family: 'Source Code Pro', monospace;
+	}
+
+	pre {
+		font-size: $mainFontSize;
+	}
+
+	.center {
+		text-align: center;
+	}
+
+
+	#title-slide {
+		background-image: url(../../../image/logo.png);
+		background-repeat: no-repeat;
+		background-size: 200px 372px;
+		background-position: right 0px top 0px;
+	}
+
+	.references {
+		font-size: 24px !important;
+	}
+
+	.col-container {
+		display: flex;
+	}
+	.col {
+		flex: 1;
+	}
+
+	.alert {
+		color: $HuAlert;
+	}
+
+	.small {
+		font-size: $mainFontSize*0.8
+	}
+
+	.large {
+		font-size: $mainFontSize*1.5
+	}
+
+	.huge {
+		font-size: $mainFontSize*2.0
+	}
+	
+
+	.underline {
+		text-decoration: underline;
+	}
+}

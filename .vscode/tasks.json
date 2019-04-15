@@ -1,0 +1,25 @@
+{
+    // Unter https://go.microsoft.com/fwlink/?LinkId=733558
+    // finden Sie Informationen zum Format von "tasks.json"
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Pandoc watch",
+            "type": "shell",
+            "command": "pandoc-watch -e \".html\" -t revealjs -s --filter pandoc-citeproc --template=templates/default.revealjs example-slides.md -o example-slides.html ",
+            "problemMatcher": []
+        },
+        {
+            "label": "Pandoc",
+            "type": "shell",
+            "command": "pandoc -t revealjs -s --filter pandoc-citeproc --template=templates/default.revealjs example-slides.md -o example-slides.html ",
+            "problemMatcher": []
+        },
+        {
+            "label": "Pandoc (self-contained)",
+            "type": "shell",
+            "command": "pandoc -t revealjs -s --filter pandoc-citeproc --template=templates/default.revealjs --self-contained example-slides.md -o example-slides_selfcontained.html ",
+            "problemMatcher": []
+        }
+    ]
+}

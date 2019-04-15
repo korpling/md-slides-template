@@ -1,0 +1,2745 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{Allaire2014,
+  Title                    = {manipulate: Interactive plots for RStudio},
+  Author                   = {Allaire, JJ},
+  Journal                  = {R package version},
+  Year                     = {2014},
+  Number                   = {1},
+  Volume                   = {1},
+
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.17}
+}
+
+@InProceedings{AlmasPerseidsCollaborativePlatform2013,
+  Title                    = {Perseids {{Collaborative Platform}} for {{Annotating Text Re}}-Uses of {{Fragmentary Authors}}},
+  Author                   = {Almas, Bridget and Berti, Monica},
+  Booktitle                = {{{DH}}-{{CASE}} '13. {{Proceedings}} of the 1st {{International Workshop}} on {{Collaborative Annotations}} in {{Shared Environment}}: {{Metadata}}, {{Vocabularies}} and {{Techniques}} in the {{Digital Humanities}}},
+  Editor                   = {Tomasi, Francesca and Vitali, Fabio},
+  Pages                    = {7:1--7:4},
+  Publisher                = {{ACM}},
+
+  Date                     = {2013},
+  Doi                      = {10.1145/2517978.2517986},
+  Langid                   = {english},
+  Location                 = {{New York, NY}}
+}
+
+@Article{ArcherEtAl2015,
+  Title                    = {Guidelines for normalising Early Modern English corpora: Decisions and justifications},
+  Author                   = {Archer, Dawn and Kytö, Merja and Baron, Alistair and Rayson, Paul},
+  Journal                  = {ICAME Journal},
+  Year                     = {2015},
+  Pages                    = {5--24},
+  Volume                   = {39},
+
+  __markedentry            = {[Lüdeling:1]},
+  Abstract                 = {Corpora of Early Modern English have been collected and released for research
+for a number of years. With large scale digitisation activities gathering pace in
+the last decade, much more historical textual data is now available for research
+on numerous topics including historical linguistics and conceptual history. We
+summarise previous research which has shown that it is necessary to map historical
+spelling variants to modern equivalents in order to successfully apply
+natural language processing and corpus linguistics methods. Manual and semiautomatic
+methods have been devised to support this normalisation and standardisation
+process. We argue that it is important to develop a linguistically
+meaningful rationale to achieve good results from this process. In order to do
+so, we propose a number of guidelines for normalising corpora and show how
+these guidelines have been applied in the Corpus of English Dialogues},
+  Doi                      = {10.1515/icame-2015-0001},
+  File                     = {:Papiere von anderen\\ArcherEtAl2015.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.04.22}
+}
+
+@Article{ArtsteinPoesio2008,
+  Title                    = {Inter-Coder Agreement for Computational Linguistics},
+  Author                   = {Ron Artstein and Massimo Poesio},
+  Journal                  = {Computational Linguistics},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {555--596},
+  Volume                   = {34},
+
+  Abstract                 = {This article is a survey of methods for measuring agreement among
+corpus annotators. It exposes
+
+the mathematics and underlying assumptions of agreement coefficients, covering Krippendorff’s
+
+alpha as well as Scott’s pi and Cohen’s kappa;discusses the use of
+coefficients in several annotation
+
+tasks;and argues that weighted, alpha-like coefficients, traditionally
+less used than kappalike
+
+measures in computational linguistics, may be more appropriate for
+many corpus annotation
+
+tasks—but that their use makes the interpretation of the value of
+the coefficient even harder.},
+  File                     = {ArtsteinPoesio2008-Inter-Coder:https://box.hu-berlin.de/lib/ceabb149-790f-49b9-adbf-31955c31b858/file/2008/ArtsteinPoesio2008-Inter-Coder.pdf:PDF},
+  ISSN                     = {0891-2017},
+  Keywords                 = {inter rater reliability, inter rater agreement},
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{Baayen1993,
+  Title                    = {On Frequency, Transparency and Productivity},
+  Author                   = {R. Harald Baayen},
+  Booktitle                = {Yearbook of Morphology 1992},
+  Publisher                = {Kluwer},
+  Year                     = {1993},
+
+  Address                  = {Dordrecht},
+  Editor                   = {Geert E. Booij and Jaap van Marle},
+  Pages                    = {181--208},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1993},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/2663da2627edfecc60533e9d10bdf99d1/idsia},
+  Citeulike-article-id     = {2375699},
+  File                     = {Baayen1993-On Frequency:.\\1993\\Baayen1993-On Frequency.pdf:PDF},
+  Keywords                 = {morphology, morphological productivity},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{Baayen1992,
+  Title                    = {Quantitative Aspects of Morphological Productivity},
+  Author                   = {R. Harald Baayen},
+  Booktitle                = {Yearbook of Morphology 1991},
+  Publisher                = {Kluwer},
+  Year                     = {1992},
+
+  Address                  = {Dordrecht},
+  Editor                   = {Geert E. Booij and Jaap van Marle},
+  Pages                    = {109--149},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1992},
+  Abstract                 = {The notion of morphological productivity has received considerable clarification from the study of the various kinds of restrictions which have been found to condition word formation rules. In a qualitative sense, the productivity of a word formation rule can be said to be inversely proportional to the number of conditioning factors in force (Booij 1977). Nevertheless, the quantitative outcome of the interaction of the - often highly heterogeneous - conditioning factors has remained rather obscure. The aim of the present paper is to clarify some of the issues involved in the quantification of morphological productivity. In Section 2 three complementary measures of morphological productivity are developed, which make use of the statistical information contained in the empirical frequency distributions of morphological categories in text corpora. Section 3 relates our findings to the theory of the mental lexicon, and Section 4 reviews three models in which the relevance of token frequencies is recognized, the models developed by Anshen and Aronoff (1988), Bybee (1985, 1988) and Rumelhart and McClelland (1986).},
+  File                     = {Baayen1992-Quantitative:.\\1992\\Baayen1992-Quantitative.pdf:PDF},
+  Keywords                 = {morphology, morphological productivity, derivation, English, Dutch, mental lexicon},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{Baayen2009,
+  Title                    = {Corpus Linguistics in Morphology: Morphological Productivity},
+  Author                   = {R. Harald Baayen},
+  Booktitle                = {Corpus Linguistics. An International Handbook},
+  Publisher                = {Mouton de Gruyter},
+  Year                     = {2009},
+
+  Address                  = {Berlin},
+  Editor                   = {Anke Lüdeling and Merja Kytö},
+  Pages                    = {899--919},
+  Volume                   = {2},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009},
+  Abstract                 = {The vocabulary of English and most other languages contains many words that have internal structure (see also article 25). Words such as STRANGENESS, WEAKNESS, and SOFTNESS contain the formative NESS, which is usually found to the right of adjectives. Words ending in NESS are almost always abstract nouns. We refer to the sets of words sharing aspects of form structure and aspects of meaning as morphological categories.
+Some morphological categories have a fixed or declining membership, while others have a growing membership. Categories with fixed or declining membership are said to be unproductive, categories with growing membership are described as productive.
+Morphological categories differ tremendously in size. Some contain only a few words (e. g., the category of words in TH such as WARMTH and STRENGTH), others may have tens of thousands of members (e. g., nominal compounding). A large morphological category and its associated morphological rule, therefore, are also described as more productive than a small category and its rule. The importance of productivity for studies of the lexicon and lexical processing is witnessed by the fact that no finite lexicon will suffice to process unseen text: Computational tools cannot do without taking productive word formation into account.
+A first key question in productivity research is what conditions need to be met for a rule to be productive in these ways. A second key question is whether a rule is ever totally unproductive, i. e., whether productivity is in essence a graded phenomenon. A related issue is how the degree of productivity of a morphological category might be measured. A third set of questions addresses how productivity changes through time, and how affixes are used across registers by different social groups. A final issue is the relation between productivity and processing constraints in the mental lexicon.
+How these questions are answered, and the relevance of corpora for guiding research, however, depends crucially on what is viewed as the goal of morphological theory.},
+  File                     = {Baayen2009-Corpus:.\\2009\\Baayen2009-Corpus.pdf:PDF},
+  Keywords                 = {morphology, morphological productivity},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Book{Baayen2008,
+  Title                    = {Analyzing Linguistic Data. A Practical Introduction to Statistics using R},
+  Author                   = {R. Harald Baayen},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2008},
+
+  Address                  = {Cambridge},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2008},
+  Abstract                 = {Statistical analysis is a useful skill for linguists and psycholinguists, allowing
+them to understand the quantitative structure of their data. This textbook provides
+a straightforward introduction to the statistical analysis of language data.
+Designed for linguists with a non-mathematical background, it clearly introduces
+the basic principles and methods of statistical analysis, using R, the leading computational
+statistics programming environment. The reader is guided step-by-step
+through a range of real data sets, allowing them to analyze phonetic data, construct
+phylogenetic trees, quantify register variation in corpus linguistics, and analyze
+experimental data using state-of-the-art models. The visualization of data plays
+a key role, both in the early stages of data exploration and later on when the
+reader is encouraged to criticize initial models fitted to the data. Containing over
+40 exercises with model answers, this book will be welcomed by all linguists
+wishing to learn more about working with and presenting quantitative data.
+The program R is available at http://cran.at.r-project.org/. The data sets and ancillary
+functions discussed in this book have been brought together in the language
+R package, which is available at the same URL.},
+  File                     = {Baayen2008-Analyzing:.\\2008\\Baayen2008-Analyzing.pdf:PDF},
+  Keywords                 = {R, statistics, introduction},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Book{Baayen2001,
+  Title                    = {Word Frequency Distributions},
+  Author                   = {R. Harald Baayen},
+  Publisher                = {Kluwer},
+  Year                     = {2001},
+
+  Address                  = {Dordrecht / Boston / London},
+
+  _series                  = {Text, Speech and Language Technologies 18},
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2001},
+  Abstract                 = {This book is an introduction to the statistical analysis of word frequency distributions, intended for linguists, psycholinguistics, and researchers working in the field of quantitative stylistics and anyone interested in quantitative aspects of lexical structure. Word frequency distributions are characterized by very large numbers of rare words. This property leads to strange statistical phenomena such as mean frequencies that systematically keep changing as the number of observations is increased, relative frequencies that even in large samples are not fully reliable estimators of population probabilities, and model parameters that emerge as functions of the text size.
+Special statistical techniques for the analysis of distributions with large numbers of rare events can be found in various technical journals. The aim of this book is to make these techniques more accessible for non-specialists. Chapter 1 introduces some basic concepts and notation. Chapter 2 describes non-parametric methods for the analysis of word frequency distributions. The next chapter describes in detail three parametric models, the lognormal model, the Yule-Simon Zipfian model, and the generalized inverse Gauss-Poisson model. Chapter 4 introduces the concept of mixture distributions. Chapter 5 explores the effect of non-randomness in word use on the accuracy of the nonparametric and parametric models, all of which are based on the assumption that words occur independently and randomly in texts. Chapter 6 presents examples of applications.},
+  File                     = {Baayen2001-Word:.\\2001\\Baayen2001-Word.pdf:PDF},
+  Keywords                 = {morphological productivity, Zipf, LNRE},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Baayen1996,
+  Title                    = {The Effects of Lexical Specialization on the Growth Curve of the Vocabulary},
+  Author                   = {R. Harald Baayen},
+  Journal                  = {Computational Linguistics},
+  Year                     = {1996},
+  Number                   = {4},
+  Pages                    = {455--480},
+  Volume                   = {22},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1996},
+  Abstract                 = {The number of different words expected on the basis of the urn model to appear in, for example, the first half of a text, is known to overestimate the observed number of different words. This paper examines the source of this overestimation bias. It is shown that this bias does not arise due to sentence-bound syntactic constraints, but that it is a direct consequence of topic cohesion in discourse. The nonrandom, clustered appearance of lexically specialized words, often the key words of the text, explains the main trends in the overestimation bias both quantitatively and qualitatively. The effects of nonrandomness are so strong that they introduce an overestimation bias in distributions of units derived from words, such as syllables and digrams. Nonrandom word usage also affects the accuracy of the Good-Turing frequency estimates which,for the lowest frequencies, reveal a strong underestimation bias. A heuristic adjusted frequency estimate is proposed that, at least for novel-sized texts, is considerably more accurate.},
+  File                     = {Baayen1996-Effects:.\\1996\\Baayen1996-Effects.pdf:PDF},
+  Keywords                 = {productivity, dispersion, randomality assumption, vocabulary growth, statistics, word frequency distributions},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Baayen1994,
+  Title                    = {Productivity in Language Production},
+  Author                   = {R. Harald Baayen},
+  Journal                  = {Language and Cognitive Processes},
+  Year                     = {1994},
+  Number                   = {3},
+  Pages                    = {447--469},
+  Volume                   = {9},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1994},
+  Abstract                 = {Lexical statistics and a production experiment are used to gauge the extent to which the linguistic notion of morphological productivity is relevant for psycholinguistic theories of speech production in languages such as Dutch and English. Lexical statistics of productivity show that despite the relatively poor morphology of Dutch, new words are created often enough for the marginalisation of word formation in theories of speech production to be theoretically unattractive. This conclusion is supported by the results of a production experiment in which subjects freely created hundreds of productive, but only a handful of unproductive, neologisms. A tentative solution is proposed as to why the opposite pattern has been observed in the speech of jargon aphasics.},
+  File                     = {Baayen1994-Productivity:.\\1994\\Baayen1994-Productivity.pdf:PDF},
+  Keywords                 = {morphological productivity, morphology, experiment, neologism, production},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{BaayenKupermanBertram2010,
+  Title                    = {Frequency Effects in Compound Processing},
+  Author                   = {R. Harald Baayen and Victor Kuperman and Raymond Bertram},
+  Booktitle                = {Cross-Disciplinary Issues in Compounding},
+  Publisher                = {John Benjamins},
+  Year                     = {2010},
+
+  Address                  = {Amsterdam and Philadelphia},
+  Editor                   = {Sergio Scalise and Irene Vogel},
+  Pages                    = {257--270},
+  Series                   = {Current Issues in Linguistic Theory 311},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2010},
+  Abstract                 = {This chapter discusses the role of compound token frequency, head and modifier token frequency, and head and modifier compound family sizes (type frequencies) in the reading of English and Dutch compounds, using data from word naming, visual lexical decision, and eye-tracking studies. Using generalized additive regression modeling, it is shown that these frequency measures enter into many complex interactions. These interactions argue against current staged models, favoring morphological processing as part of a complex dynamic system.},
+  File                     = {BaayenKupermanBertram2010-Frequency:.\\2010\\BaayenKupermanBertram2010-Frequency.pdf:PDF},
+  Keywords                 = {morphology, word formation, compound, modifier, head, experiment},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{BaayenLieber1991,
+  Title                    = {Productivity and English Derivation: A Corpus-Based Study},
+  Author                   = {R. Harald Baayen and Rochelle Lieber},
+  Journal                  = {Linguistics},
+  Year                     = {1991},
+  Pages                    = {801--843},
+  Volume                   = {29},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1991},
+  Abstract                 = {The notion of productivity is one which is central to the study of morphology. It is a notion about which linguists frequently have intuitions. But it is a notion which still remains somewhat problematic in the literature on generative morphology some 15 years after Aronoff raised the issue in his (1976) monograph. In this paper we will review some of the definitions and measures of productivity discussed in the generative and pregenerative literature. We will adopt the definition of productivity suggested by Schultink (1961) and propose a number of statistical measures of productivity whose results, when applied to a fixed corpus, accord nicely with our intuitive estimates of productivity, and which shed light on the quantitative weight of linguistic restrictions on word-formation rules. Part of our purpose here is also a very simple one: to make available a substantial set of empirical data concerning the productivity of some of the major derivational affixes of English.},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/226a8840152170695b3e5cae564887f82/schaul},
+  Citeulike-article-id     = {2375700},
+  Description              = {idsia},
+  File                     = {BaayenLieber1991-Productivity:.\\1991\\BaayenLieber1991-Productivity.pdf:PDF},
+  Interhash                = {848b8eee1122d39af33c900f4e19b50d},
+  Intrahash                = {26a8840152170695b3e5cae564887f82},
+  Keywords                 = {morphology, morphological productivity, English, derivation, -ness, -ity, -ation},
+  Owner                    = {anke},
+  Priority                 = {2},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{BaayenRenouf1996,
+  Title                    = {Chronicling the Times: Productive Lexical Innovations in an English Newspaper},
+  Author                   = {R. Harald Baayen and Antoinette Renouf},
+  Journal                  = {Language},
+  Year                     = {1996},
+  Number                   = {1},
+  Pages                    = {69--96},
+  Volume                   = {72},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1996},
+  Abstract                 = {This study examines the productivity of five English derivational affixes in a British newspaper, the Times (London), in the period from September 1989 to December 1992. This diachronic corpus of roughly 80 million word tokens contains large numbers of neologisms. Thus, this corpus offers a good opportunity to test both qualitative and quantitative theories of morphological productivity. Our investigations support the usefulness of the quantitative formalization of the notion DEGREE OF PRODUCTIVITY developed in Baayen 1992, 1993a. At the same time, they illustrate that productivity is a function of both text type and real time. An investigation of the morphological structure of the neologisms provides strong support for Aronoff’s (1976) claim that the productivity of an affix may vary significantly with the morphological structure of the base word to which it attaches.},
+  File                     = {BaayenRenouf1996-Chronicling:.\\1996\\BaayenRenouf1996-Chronicling.pdf:PDF},
+  Keywords                 = {morphology, morphological productivity, diachronic, language change, English},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{BallierMartin2015,
+  Title                    = {Speech Annotation of Learner Corpora},
+  Author                   = {Nicolas Ballier and Philippe Martin},
+  Booktitle                = {The Cambridge Handbook of Learner Corpus Research},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2015},
+
+  Address                  = {Cambridge},
+  Editor                   = {Sylviane Granger and Ga{\"e}tanelle Gilquin and Fanny Meunier},
+  Pages                    = {107-134},
+
+  File                     = {:Papiere von anderen\\HandbookLearnerCorpora-Proofs\\Chapter 6.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.06.28}
+}
+
+@InCollection{Baroni2009,
+  Title                    = {Distributions in Text},
+  Author                   = {Marco Baroni},
+  Booktitle                = {Corpus Linguistics. An International Handbook},
+  Publisher                = {Mouton de Gruyter},
+  Year                     = {2009},
+  Editor                   = {Anke Lüdeling and Merja Kytö},
+  Pages                    = {803-822},
+  Volume                   = {2},
+
+  File                     = {:HSK Korpuslinguistik\\Umbruchfahnen-unkorrigiert\\Baroni.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.05.14}
+}
+
+@Article{BaroniEtAl2009,
+  Title                    = {The WaCky Wide Web: A Collection of Very Large Linguistically Processed Web-Crawled Corpora},
+  Author                   = {Marco Baroni and Silvia Bernardini and Adriano Ferraresi and Eros Zanchetta},
+  Journal                  = {Language Resources and Evaluation},
+  Year                     = {2009},
+  Number                   = {3},
+  Pages                    = {209--226},
+  Volume                   = {43},
+
+  Abstract                 = {This article introduces ukWaC, deWaC and itWaC, three very large corpora of English, German, and Italian built by web crawling, and describes the methodology and tools used in their construction. The corpora contain more than a billion words each, and are thus among the largest resources for the respective languages. The paper also provides an evaluation of their suitability for linguistic research, focusing on ukWaC and itWaC. A comparison in terms of lexical coverage with existing resources for the languages of interest produces encouraging results. Qualitative evaluation of ukWaC vs. the British National Corpus was also conducted, so as to highlight di_erences in corpus composition (text types and subject matters). The article concludes with practical information about format and availability of corpora and tools.},
+  File                     = {BaroniBernardiniFerraresiEtAl2009-WaCky:.\\2009\\BaroniBernardiniFerraresiEtAl2009-WaCky.pdf:PDF},
+  Keywords                 = {corpus linguistics, corpora, web as corpus, WaCKy},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14},
+  Url                      = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009}
+}
+
+@TechReport{BelzEtAl2018,
+  Title                    = {Dokumentation und Annotationsrichtlinien für das Korpus
+Ridges Herbology Version 8.0 (ANNIS-und PAULA-Format)
+auf Grundlage des Metadatenframeworks nach LAUDATIO},
+  Author                   = {Malte Belz and Carolin Odebrecht and Laura Perlitz and Gohar Schnelle and Vivian Voigt},
+  Institution              = {Humboldt-Universität zu Berlin},
+  Year                     = {2018},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14},
+  Url                      = {https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/ridges-projekt/documentation/download-files/pubs/ridgesv8_2018-04_06.pdf}
+}
+
+@Misc{BelzEtAl2017,
+  Title                    = {Annotationsrichtlinien zu Ridges Herbology Version 6.0},
+
+  Author                   = {Belz, Malte and Odebrecht, Carolin and Perlitz, Laura and Schnelle, Gohar and Voigt, Vivian},
+  Year                     = {2017},
+
+  Address                  = {Berlin},
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.09},
+  Url                      = {https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/ridges-projekt/download-files/pubs/ridgesv6_2017-05-04.pdf},
+  Urldate                  = {2017-07-09}
+}
+
+@Article{BertiCollectingQuotationsTopic2013,
+  Title                    = {Collecting {{Quotations}} by {{Topic}}: {{Degrees}} of {{Preservation}} and {{Transtextual Relations}} among {{Genres}}},
+  Author                   = {Berti, Monica},
+  Pages                    = {269--288},
+  Volume                   = {43},
+
+  Date                     = {2013},
+  Doi                      = {10.2143/AS.43.0.2992614},
+  Journaltitle             = {Ancient Society},
+  Langid                   = {english}
+}
+
+@InCollection{BertiLeipzigOpenFragmentary2016,
+  Title                    = {The {{Leipzig Open Fragmentary Texts Series}} ({{LOFTS}})},
+  Author                   = {Berti, Monica and Almas, Bridget and Crane, Gregory R.},
+  Booktitle                = {Digital {{Methods}} and {{Classical Studies}}},
+  Editor                   = {Bernstein, Neil and Coffee, Neil},
+  Number                   = {10},
+  Series                   = {Digital Humanities Quarterly Special Issue},
+  Volume                   = {2},
+
+  Date                     = {2016},
+  Langid                   = {english},
+  Url                      = {http://www.digitalhumanities.org/dhq/vol/10/2/000245/000245.html}
+}
+
+@Article{BertiLinkedFragmentTEI2014,
+  Title                    = {The {{Linked Fragment}}: {{TEI}} and the {{Encoding}} of {{Text Reuses}} of {{Lost Authors}}},
+  Author                   = {Berti, Monica and Almas, Bridget and Dubin, David and Franzini, Greta and Stoyanova, Simona and Crane, Gregory R.},
+  Pages                    = {1-24},
+  Volume                   = {8},
+
+  Date                     = {2014/2015},
+  Doi                      = {10.4000/jtei.1218},
+  Journaltitle             = {Journal of the Text Encoding Initiative},
+  Langid                   = {english}
+}
+
+@InCollection{BertiDocumentingHomericTextReuse2016,
+  Title                    = {Documenting {{Homeric Text}}-{{Reuse}} in the {{{\emph{Deipnosophistae}}}} of {{Athenaeus}} of {{Naucratis}}},
+  Author                   = {Berti, Monica and Blackwell, Christoper W. and Daniels, Mary and Strickland, Samantha and Vincent-Dobbins, Kimbell},
+  Booktitle                = {Digital {{Approaches}} and the {{Ancient World}}},
+  Publisher                = {{The Institute of Classical Studies - University of London}},
+  Editor                   = {Bodard, Gabriel and Broux, Yanne and Tarte, Ségolène},
+  Number                   = {59},
+  Pages                    = {121-139},
+  Series                   = {BICS Themed Issue},
+  Volume                   = {2},
+
+  Date                     = {2016},
+  Langid                   = {english},
+  Location                 = {{London}},
+  Url                      = {https://doi.org/10.1111/j.2041-5370.2016.12042.x}
+}
+
+@InProceedings{BertiCollectingFragmentaryAuthors2009,
+  Title                    = {Collecting {{Fragmentary Authors}} in a {{Digital Library}}},
+  Author                   = {Berti, Monica and Romanello, Matteo and Babeu, Alison and Crane, Gregory R.},
+  Booktitle                = {Proceedings of the 9th {{ACM}}/{{IEEE}}-{{CS Joint Conference}} on {{Digital Libraries}}},
+  Pages                    = {259--262},
+  Publisher                = {{ACM}},
+  Series                   = {JCDL '09},
+
+  Date                     = {2009},
+  Doi                      = {10.1145/1555400.1555442},
+  Langid                   = {english},
+  Location                 = {{New York, NY}}
+}
+
+@InCollection{Biber2009,
+  Title                    = {Multi-Dimensional Approaches},
+  Author                   = {Douglas Biber},
+  Booktitle                = {Corpus Linguistics. An International Handbook},
+  Publisher                = {Mouton de Gruyter},
+  Year                     = {2009},
+
+  Address                  = {Berlin},
+  Editor                   = {Anke Lüdeling and Merja Kyt\"{o}},
+  Pages                    = {822-855},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.03.02}
+}
+
+@Article{Biber1993,
+  Title                    = {Representativeness in Corpus Design},
+  Author                   = {Douglas Biber},
+  Journal                  = {Literary and Linguistic Computing},
+  Year                     = {1993},
+  Number                   = {4},
+  Pages                    = {243--257},
+  Volume                   = {8},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1993},
+  Abstract                 = {The present paper addresses a number of issues related to achieving 'representativeness' in linguistic corpus design, including: discussion of what it means to 'represent' a language, definition of the target population, stratified versus proportional sampling of a language, sampling within texts, and issues relating to the required sample size (number of texts) of a corpus. The paper distinguishes among various ways that linguistic features can be distributed within and across texts; it analyses the distributions of several particular features, and it discusses the implications of these distributions for corpus design.
+The paper argues that theoretical research should be prior in corpus design, to identify the situational parameters that distinguish among texts in a speech community, and to identify the types of linguistic features that will be analysed in the corpus. These theoretical considerations should be complemented by empirical investigations of linguistic variation in a pilot corpus of texts, as a basis for specific sampling decisions. The actual construction of a corpus would then proceed in cycles: the original design based on theoretical and pilot-study analyses, followed by collection of texts, followed by further empirical investigations of linguistic variation and revision of the design.},
+  File                     = {Biber1993-Representativeness:.\\1993\\Biber1993-Representativeness.pdf:PDF},
+  Keywords                 = {corpus linguistics, corpus design, representativeness, representative, sample, balanced},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Book{BiberConrad2009,
+  Title                    = {Register, Genre, and Style},
+  Author                   = {Douglas Biber and Susan Conrad},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2009},
+
+  Address                  = {Cambridge},
+  Series                   = {Cambridge Textbooks in Linguistics},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009},
+  Abstract                 = {This book describes the most important kinds of texts in English and introduces the methodological techniques used to analyze them. Three analytical approaches are introduced and compared, describing a wide range of texts from the perspectives of register, genre, and style.
+The primary focus of the book is on the analysis of registers. Part 1 introduces an analytical framework for studying registers, genre conventions, and styles. Part 2 provides detailed descriptions of particular text varieties in English, including spoken interpersonal varieties (conversation, university office hours, service encounters), written varieties (newspapers, academic prose, fiction), and emerging electronic varieties (e-mail, internet forums, text messages). Finally, Part 3 introduces advanced analytical approaches using corpora, and discusses theoretical concerns, such as the place of register studies in linguistics, and practical applications of register analysis. Each chapter ends with three types of activities: reflection and review activities, analysis activities, and larger project ideas.},
+  File                     = {:Papiere von anderen/BiberConrad2009.pdf:PDF;BiberConrad2009-Register:.\\2009\\BiberConrad2009-Register.pdf:PDF},
+  Keywords                 = {register, genre, style, corpus linguistics},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.16}
+}
+
+@InCollection{BiberJones2009,
+  Title                    = {Quantitative Methods in Corpus Linguistics},
+  Author                   = {Douglas Biber and James K. Jones},
+  Booktitle                = {Corpus Linguistics. An International Handbook},
+  Publisher                = {Mouton de Gruyter},
+  Year                     = {2009},
+
+  Address                  = {Berlin},
+  Editor                   = {Anke Lüdeling and Merja Kytö},
+  Pages                    = {1286--1304},
+  Volume                   = {2},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009},
+  Abstract                 = {As documented in the articles of this handbook, the central goal of corpus-based analysis is to describe and interpret generalizable patterns of language use. The subdisciplines of discourse analysis and functional linguistics are similar to corpus linguistics in having a primary interest in research questions relating to language use, but these disciplines form a cline in the extent to which they rely on quantitative methods and the value attached to the generalizability of findings. Discourse analytic studies often focus on detailed discussion of a few texts (see, e. g., the survey of studies contained in Schiffrin/Tannen/Hamilton 2001). Functional linguistic studies often focus on linguistic generalizations, with relatively little attention paid to the representativeness of the texts analyzed. In contrast, corpus linguistic investigations of language use are usually designed as quantitative studies with the goal of generalizable findings representing some domain of use.
+The design of a corpus is a fundamentally important consideration for achieving this goal: the corpus must be representative of the target domain of use in order for subsequent analyses to be generalized to that domain (see also article 9). Quantitative analyses are also important for generalizable results, because they provide a measure of the extent to which a pattern holds in different domains of use. Computational techniques figure prominently in corpus analyses simply because they enable studies of a scope not feasible otherwise. Computers make it possible to identify and analyze complex patterns of language use, tracking the use of multiple linguistic features across large text collections. Further, computers provide consistent, reliable analyses; they do not change their minds or become tired during an analysis.
+The present article provides a survey of the major research designs used in quantitative corpus-based analysis. The article begins with a brief overview of issues of corpus design, recognizing the central place of corpus representativeness for this research approach. We then organize the remainder of the article around the three major kinds of research questions investigated with corpus-based analysis: studies with the word as the primary unit of analysis; studies with a linguistic feature as the primary unit of analysis; and studies with texts as the primary unit of analysis. Finally, we briefly discuss the role of inferential statistics in corpus-based studies of language use.},
+  File                     = {BiberJones2009 - Quantitative:.\\2009\\BiberJones2009 - Quantitative.pdf:PDF},
+  Keywords                 = {corpus linguistics, type A studies, type B studies, quantitative},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.23}
+}
+
+@InCollection{BiemannEtAl2017,
+  Title                    = {Collaborative Web-based Tools for Multi-layer Text Annotation},
+  Author                   = {Chris Biemann and Kalina Bontcheva and Richard Eckart de Castilho and Iryna Gurevych and Seid Muhie Yimam},
+  Booktitle                = {The Handbook of Linguistic Annotation},
+  Publisher                = {Springer Netherlands},
+  Year                     = {2017},
+  Editor                   = {Nancy Ide and James Pustejovsky},
+  Month                    = {May},
+  Pages                    = {229---256},
+  Series                   = {Text, Speech, and Technology book series},
+
+  ISBN                     = {978-94-024-0879-9},
+  Keywords                 = {UKP\_s\_WebAnno;UKP\_a\_LangTech4eHum;UKP\_a\_LTDH;UKP\_reviewed},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.24},
+  Url                      = {http://tubiblio.ulb.tu-darmstadt.de/104590/}
+}
+
+@Article{Bird2001,
+  Title                    = {A formal framework for linguistic annotation},
+  Author                   = {Steven Bird and Mark Liberman},
+  Journal                  = {Speech Communication},
+  Year                     = {2001},
+  Note                     = {Speech Annotation and Corpus Tools},
+  Number                   = {1–2},
+  Pages                    = {23--60},
+  Volume                   = {33},
+
+  Doi                      = {10.1016/S0167-6393(00)00068-6},
+  File                     = {Bird2001.pdf:literature/Bird2001.pdf:PDF},
+  ISSN                     = {0167-6393},
+  Keywords                 = {Speech markup},
+  Owner                    = {thomas},
+  Timestamp                = {2014.05.20}
+}
+
+@InCollection{BizzonimakingAncientGreek2014,
+  Title                    = {The Making of {{Ancient Greek WordNet}}},
+  Author                   = {Bizzoni, Yuri and Boschetti, Federico and Diakoff, Harry and Del Gratta, Riccardo and Monachini, Monica and Crane, Gregory R.},
+  Booktitle                = {Proceedings of the {{Ninth International Conference}} on {{Language Resources}} and {{Evaluation}} ({{LREC}}' 14)},
+  Publisher                = {{European Language Resources Association (ELRA)}},
+  Editor                   = {Calzolari, Nicoletta and Choukri, Khalid and Declerck, Thierry and Koftsson, Hrafn and Maegaard, Bente and Mariani, Joseph and Odijk, Jan and Piperidis, Stelios},
+  Pages                    = {26-31},
+
+  Date                     = {2014},
+  Langid                   = {english},
+  Location                 = {{Reykjavik}}
+}
+
+@Book{BlairTooMuchKnow2010,
+  Title                    = {Too {{Much}} to {{Know}}. {{Managing Scholarly Information}} before the {{Modern Age}}},
+  Author                   = {Blair, Ann M.},
+  Publisher                = {{Yale University Press}},
+
+  Date                     = {2010},
+  Location                 = {{New Haven - London}}
+}
+
+@Article{BleyVroman1983,
+  Title                    = {The comparative fallacy in interlanguage studies: The case of systematicity},
+  Author                   = {Robert Bley-Vroman},
+  Journal                  = {Language Learning},
+  Year                     = {1983},
+  Number                   = {1},
+  Pages                    = {1--17},
+  Volume                   = {33},
+
+  _issn                    = {1467-9922},
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1983},
+  Abstract                 = {Studies of second language acquisition often employ analytical concepts defined
+relative to the target language (such as obligatory context, error, etc.). It is
+demonstrated here that this practice can be a serious obstacle to the investigation of
+crucial questions about the nature of learners’ languages. The difficulties caused by this
+practice-called here the “comparative fallacy”-are illustrated iii an investigation of
+the framework proposed by Tarone, Frauenfelder, and Selinker (1976) to study the
+issue of interlanguage systematicity and variability. Their framework is shown to result
+in incorrect or unrevealing analyses of systematicity and to obscure the character of the
+interlanguage. These defects are shown to be the results of the comparative fallacy.},
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Bley-Vroman1983-Comparative.pdf:PDF;Bley-Vroman1983-Comparative:.\\1983\\Bley-Vroman1983-Comparative.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{BresnanCueniNikitinaEtAl2007,
+  Title                    = {Predicting the Dative Alternation},
+  Author                   = {Joan Bresnan and Anna Cueni and Tatiana Nikitina and R. Harald Baayen},
+  Booktitle                = {Cognitive Foundations of Interpretation},
+  Publisher                = {Royal Netherlands Academy of Science},
+  Year                     = {2007},
+
+  Address                  = {Amsterdam},
+  Editor                   = {Gerlof Bouma and Irene Kraemer and Joost Zwarts},
+  Pages                    = {1--33},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2007},
+  Abstract                 = {Theoretical linguists have traditionally relied on linguistic intuitions such as grammaticality judgments for their data. But the massive growth of computer-readable texts and recordings, the availability of cheaper, more powerful computers and software, and the development of new probabilistic models for language have now made the spontaneous use of language in natural settings a rich and easily accessible alternative source of data.
+
+Surprisingly, many linguists believe that such ‘usage data’ are irrelevant to the theory of grammar. Four problems are repeatedly brought up in the critiques of usage data— 
+
+1. correlated factors seeming to support reductive theories, 
+2. pooled data invalidating grammatical inference, 
+3. syntactic choices reducing to lexical biases, and 
+4. cross-corpus differences undermining corpus studies.
+
+Presenting a case study of work on the English dative alternation, we show first, that linguistic intuitions of grammaticality are deeply flawed and seriously underestimate the space of grammatical possibility, and second, that the four problems in the critique of usage data are empirical issues that can be resolved by using modern statistical theory and modelling strategies widely used in other fields.
+
+The new models allow linguistic theory to solve more difficult problems than it has in the past, and to build convergent projects with psychology, computer science, and allied fields of cognitive science.},
+  Citeulike-article-id     = {2115961},
+  Citeulike-linkout-0      = {http://www.stanford.edu/\%7Ebresnan/qs-submit.pdf},
+  File                     = {BresnanCueniNikitinaEtAl2007-Predicting:.\\2007\\BresnanCueniNikitinaEtAl2007-Predicting.pdf:PDF},
+  Keywords                 = {corpus linguistics, syntactic priming, syntactic variation, ditransitive, binary logistic regression, mixed effects models, quantitative},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Manual{Breuel2014,
+  Title                    = {A Python-based OCR package using recurrent neural networks},
+  Author                   = {Thomas Breuel},
+  Year                     = {2014},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.05.22},
+  Url                      = {https://github.com/tmbdev/ocropy}
+}
+
+@Book{BuechlerInformationstechnischeAspekteHistorical2013,
+  Title                    = {Informationstechnische Aspekte des \emph{Historical Text Re-use}},
+  Author                   = {Büchler, Marco},
+  Publisher                = {{Universität Leipzig}},
+  Volume                   = {Dissertation zur Erlangung des akademischen Grades Doctor rerum naturalium (Dr. rer. nat.)},
+
+  Date                     = {2013},
+  Langid                   = {german},
+  Location                 = {{Leipzig}}
+}
+
+@InCollection{Burnard2005,
+  Title                    = {Metadata for Corpus Work},
+  Author                   = {Lou Burnard},
+  Booktitle                = {Developing Linguistic Corpora: a Guide to Good Practice},
+  Publisher                = {Oxbow Books},
+  Year                     = {2005},
+
+  Address                  = {Oxford},
+  Editor                   = {Martin Wynne},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14},
+  Url                      = {http://ota.ox.ac.uk/documents/creating/dlc/}
+}
+
+@Article{CampbellKibler2011,
+  Title                    = {The sociolinguistic variant as a carrier of social meaning},
+  Author                   = {Catherine Campbell-Kibler},
+  Journal                  = {Language Variation and Change},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {423--441},
+  Volume                   = {22},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2011},
+  Abstract                 = {Traditionally used as a “heuristic device” (Labov, 1978), the sociolinguistic variable
+has taken on a new role as a primitive ofdittmar speaker/hearer mental models in third-wave
+variation work (Eckert, 2005, 2008). Results from a sociolinguistic perception study
+suggest that at least in some cases, variants of the same variable function
+independently as loci of indexically linked social meaning. Listener responses were
+collected to three matched guises of the English variable (ING): -in, -ing, and a
+neutral guise with no audible (ING) tokens. The results counter the study
+hypothesis that listener expectation, triggered by speaker regional accent, would
+shape (ING)’s impact. Instead, the two variants showed distinct social associations:
+the -ing guises were rated as more intelligent/educated, more articulate, and less
+likely to be a student than either the -in or neutral guises, which did not differ
+significantly. In contrast, -in guises made speakers sound less formal and less
+likely to be gay than the -ing and neutral guises, which did not differ. These results
+suggest that third-wave work needs to more closely examine the role of the variable
+in theorizing the relationship between linguistic and social structures.},
+  File                     = {Campbell-Kibler2011-Sociolinguistic:.\\2011\\Campbell-Kibler2011-Sociolinguistic.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@Article{Carletta1996,
+  Title                    = {Squibs and Discussions. Assessing Agreement on Classification Tasks: The Kappa Statistic},
+  Author                   = {Jean Carletta},
+  Journal                  = {Computational linguistics},
+  Year                     = {1996},
+  Number                   = {2},
+  Pages                    = {249--254},
+  Volume                   = {22},
+
+  Abstract                 = {Currently, computational linguists and cognitive scientists working
+in the area of discourse and
+
+dialogue argue that their subjective judgments are reliable using
+several different statistics, none
+
+of which are easily interpretable or comparable to each other. Meanwhile, researchers in content
+
+analysis have already experienced the same difficulties and come up
+with a solution in the kappa
+
+statistic. We discuss what is wrong with reliability measures as they
+are currently used for
+
+discourse and dialogue work in computational linguistics and cognitive
+science, and argue that
+
+we would be better off as afield adopting techniques from content
+analysis.},
+  File                     = {Carletta1996-Assessing:https://box.hu-berlin.de/lib/ceabb149-790f-49b9-adbf-31955c31b858/file/1996/Carletta1996-Assessing.pdf:PDF},
+  Keywords                 = {statistic, Kappa},
+  Owner                    = {thomas},
+  Publisher                = {MIT Press},
+  Timestamp                = {2018.07.17}
+}
+
+@Article{CoffeeIntertextualityDigitalAge2012a,
+  Title                    = {Intertextuality in the {{Digital Age}}},
+  Author                   = {Coffee, Neil and Koenig, Jean-Pierre and Poornima, Shakthi and Ossewaarde, Roelant and Forstall, Christopher W. and Jacobson, Sarah L.},
+  Number                   = {2},
+  Pages                    = {383-422},
+  Volume                   = {142},
+
+  Date                     = {2012},
+  Doi                      = {10.1353/apa.2012.0010},
+  Journaltitle             = {Transactions of the American Philological Association},
+  Langid                   = {english}
+}
+
+@Article{Cohen1960,
+  Title                    = {A coefficient of agreement for nominal scales},
+  Author                   = {Cohen, Jacob},
+  Journal                  = {Educational and psychological measurement},
+  Year                     = {1960},
+  Number                   = {1},
+  Pages                    = {37--46},
+  Volume                   = {20},
+
+  Owner                    = {thomas},
+  Publisher                = {Sage Publications Sage CA: Thousand Oaks, CA},
+  Timestamp                = {2018.07.17}
+}
+
+@InProceedings{CohenBaumgartnerTemnikova2016,
+  Title                    = {SuperCAT: The (New and Improved) Corpus Analysis Toolkit},
+  Author                   = {K. Bretonnel Cohen and William A. Baumgartner Jr. and Irina Temnikova},
+  Booktitle                = {Proceedings of LREC 2016},
+  Year                     = {2016},
+
+  Address                  = {Portoro\v{z}},
+  Pages                    = {2784-2788},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2016.06.03}
+}
+
+@Book{Cormen2009,
+  Title                    = {Introduction to Algorithms},
+  Author                   = {Cormen, Thomas H. and Leiserson, Charles E. and Rivest, Ronald L. and Stein, Clifford},
+  Publisher                = {The MIT Press},
+  Year                     = {2009},
+  Edition                  = {3},
+
+  ISBN                     = {9780262533058},
+  Owner                    = {thomas},
+  Timestamp                = {2018.01.11}
+}
+
+@InProceedings{Dipper2005,
+  Title                    = {XML-based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation.},
+  Author                   = {Dipper, Stefanie},
+  Booktitle                = {Berliner XML Tage},
+  Year                     = {2005},
+  Pages                    = {39--50},
+
+  File                     = {Dipper2005.pdf:literature/Dipper2005.pdf:PDF},
+  Owner                    = {thomas},
+  Timestamp                = {2017.10.12},
+  Url                      = {http://pub.sfb632.uni-potsdam.de/publications/D1/D1_Dipper_2005a.pdf}
+}
+
+@Article{Eckert2012,
+  Title                    = {Three Waves of Variation Study: The Emergence of Meaning in the Study of Sociolinguistic Variation},
+  Author                   = {Penelope Eckert},
+  Journal                  = {Annual Review of Anthropology},
+  Year                     = {2012},
+  Pages                    = {87--100},
+  Volume                   = {41},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2012},
+  Abstract                 = {The treatment of social meaning in sociolinguistic variation has come
+in three waves of analytic practice. The first wave of variation studies
+established broad correlations between linguistic variables and the
+macrosociological categories of socioeconomic class, sex, class, ethnicity,
+and age. The second wave employed ethnographic methods to explore
+the local categories and configurations that inhabit, or constitute,
+these broader categories. In both waves, variation was seen as marking
+social categories. This article sets out a theoretical foundation for the
+third wave, arguing that (a) variation constitutes a robust social semiotic
+system, potentially expressing the full range of social concerns in
+a given community; (b) the meanings of variables are underspecified,
+gainingmore specific meanings in the context of styles, and (c) variation
+does not simply reflect, but also constructs, social meaning and hence
+is a force in social change.},
+  File                     = {Eckert2012-Three:.\\2012\\Eckert2012-Three.pdf:PDF},
+  Keywords                 = {indexicality, style, enregisterment, social meaning},
+  Owner                    = {anke},
+  Publisher                = {Annual Reviews},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{Eckert2006,
+  Title                    = {Communities of Practice},
+  Author                   = {Penelope Eckert},
+  Booktitle                = {Encyclopedia of language and linguistics},
+  Publisher                = {Elsevier},
+  Year                     = {2006},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2006},
+  Abstract                 = {A community of practice is a collection of people who engage on an ongoing basis in some
+common endeavor. Communities of practice emerge in response to common interest or position,
+and play an important role in forming their members’ participation in, and orientation to, the
+world around them. It provides an accountable link, therefore, between the individual, the group,
+and place in the broader social order, and it provides a setting in which linguistic practice
+emerges as a function of this link. Studies of communities of practice, therefore, have
+considerable explanatory power for the broader demographics of language variability.},
+  File                     = {:home/anke/hubox/subversion/Papiere von anderen/Eckert2006.pdf:PDF;Eckert2006-Communities:.\\2006\\Eckert2006-Communities.pdf:PDF},
+  Keywords                 = {speech community, community of practice, identity, practice, class, gender, variation, heterogeneity, sociolinguistics, linguistic anthropology, social stratification, social meaning},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InBook{Eckert2000,
+  Title                    = {Linguistic variation as social practice},
+  Author                   = {Penelope Eckert},
+  Chapter                  = {1: Introduction: Variation and Agency},
+  Pages                    = {1--31},
+  Publisher                = {Oxford: Blackwell.},
+  Year                     = {2000},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2000},
+  File                     = {Eckert2000-Introduction:.\\2000\\Eckert2000-Introduction.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{Evert2009,
+  Title                    = {Corpora and Collocations},
+  Author                   = {Stefan Evert},
+  Booktitle                = {Corpus Linguistics. An International Handbook},
+  Publisher                = {Mouton de Gruyter},
+  Year                     = {2009},
+
+  Address                  = {Berlin},
+  Editor                   = {Anke Lüdeling and Merja Kytö},
+  Pages                    = {1212--1248},
+  Volume                   = {2},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009},
+  Abstract                 = {The concept of collocations is certainly one of the most controversial notions in linguistics, even though it is based on a compelling, widely shared intuition that certain words have a tendency to occur near each other in natural language. Examples of such collocations are cow and milk, day and night, ring and bell, or the infamous kick and bucket. Other words, like know and glass or door and year, do not seem to be particularly attracted to each other. J. R. Firth (1957) introduced the term “collocations” for characteristic and frequently recurrent word combinations, arguing that the meaning and usage of a word (the node) can to some extent be characterised by its most typical collocates: “You shall know a word by the company it keeps” (Firth 1957, 179). Firth was clearly aware of the limitations of this approach. He understood collocations as a convenient first approximation to meaning at a purely lexical level that can easily be operationalised (cf. Firth 1957, 181). Collocations in this Firthian sense can also be interpreted as empirical statements about the predictability of word combinations: they quantify the “mutual expectancy” (Firth 1957, 181) between words and the statistical influence a word exerts on its neighbourhood. Firth’s definition of the term remained vague, though, and it was only formalised and implemented after his death, by a group of British linguists often referred to as the Neo-Firthian school. Collocations have found widespread application in computational lexicography (Sinclair 1966, 1991), resulting in corpus-based dictionaries such as COBUILD (Sinclair 1995; see also article 8).
+In parallel to the development of the Neo-Firthian school, the term “collocations” came to be used in the field of phraseology for semi-compositional and lexically determined word combinations such as stiff drink (with a special meaning of stiff restricted to a particular set of nouns), heavy smoker (where heavy is the only acceptable intensifier for smoker), give a talk (rather than make or hold) and a school of fish (rather than group, swarm or flock). This view has been advanced forcefully by Hausmann (1989) and has found increasingly widespread acceptance in recent years (e. g. Grossmann/Tutin 2003). It is notoriously difficult to give a rigorous definition of collocations in the phraseological sense and differentiate them from restricted word senses (most dictionaries have separate subentries for the special meanings of stiff, heavy and school in the examples above). There is considerable overlap between the phraseological notion of collocations and the more general empirical notion put forward by Firth (cf. the examples given above), but they are also different in many respects (e. g., good and time are strongly collocated in the empirical sense, but a good time can hardly be understood as a noncompositional or lexically restricted expression). This poor alignment between two interpretations of the same term has resulted in frequent misunderstandings and has led to enormous confusion on both sides. The situation is further complicated by a third meaning of “collocations” in the field of computational linguistics, where it is often used as a generic term for any lexicalised word combination that has idiosyncratic semantic or syntactic properties and may therefore require special treatment in a machine-readable dictionary or natural language processing system. This usage seems to originate with Choueka (1988) and can be found in standard textbooks, where collocations are often defined in terms of non-compositionality, non-modifiability and non-substitutability (Manning/Schütze 1999, 184). It has recently been superseded by the less ambiguous term multiword expression (cf. Sag et al. 2002).
+An excellent overview of the competing definitions of collocations and their historical development is given by Bartsch (2004). Interestingly, she takes a middle road with her working definition of collocations as “lexically and/or pragmatically constrained recurrent co-occurrences of at least two lexical items which are in a direct syntactic relation with each other” (Bartsch 2004, 76). For a compact summary, refer to Williams (2003).},
+  File                     = {Evert2009-Corpora:.\\2009\\Evert2009-Corpora.pdf:PDF},
+  Keywords                 = {collocations, statistics, cooccurrence, corpus linguistics},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Evert2006,
+  Title                    = {How Random is a Corpus? The Library Metaphor},
+  Author                   = {Stefan Evert},
+  Journal                  = {Zeitschrift f\"{u}r Anglistik und Amerikanistik},
+  Year                     = {2006},
+  Number                   = {2},
+  Pages                    = {177--190},
+  Volume                   = {54},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2006},
+  Abstract                 = {There is a stark contrast between the random sample model underlying the statistical analysis of corpus frequency data and our intuitive knowledge that sentences are more than random bags of words. The ‘library metaphor’ illustrates how randomness results from the selection of a corpus as the basis for a linguistic study. At the same time it reveals two reasons why corpus data do not fully meet the assumptions of the random sample model. Finally, practicable methods for identifying and quantifying non-randomness are introduced and demonstrated on the example of passive verb forms.},
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Evert2006-How.pdf:PDF;Evert2006-How:.\\2006\\Evert2006-How.pdf:PDF},
+  Keywords                 = {non-randomality, dispersion, statistics, corpus linguistics},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@PhdThesis{Evert2004,
+  Title                    = {The Statistics of Word Cooccurrences: Word Pairs and Collocations},
+  Author                   = {Stefan Evert},
+  School                   = {University of Stuttgart},
+  Year                     = {2004},
+
+  Abstract                 = {In natural language, words are not combined randomly into phrases and sentences, constrained only by the rules of syntax. They have a tendency to appear in certain recurrent combinations, prompting Firth (1957) to coin his famous slogan: You shall know a word by the company it keeps!. Indeed, such cooccurrences – whether they are immediately adjacent words, stand in a particular syntactic relation or just tend to be used in the same sentence – are a goldmine of information for linguistics and natural language processing. They include compound nouns (black box), fixed idioms (kick the bucket), lexically determined combinations (heavy smoker) and formulaic expressions (have a nice day). They can often tell us something about the meaning of a word (think of combinations like dark night and bright day), an idea that has inspired latent semantic analysis and similar vector space models of word meaning.
+With modern computers it is easy to extract evidence for recurrent word pairs from huge text corpora, often aided by linguistic pre-processing and annotation (so that specific combinations, e.g. noun+verb can be targeted). However, the raw data – in the form of frequency counts for word pairs – are often not very meaningful as a measure for the amount of “glue” between two words. Provided that both words are sufficiently frequent, their cooccurrences might be pure coincidence. Therefore, a statistical interpretation of the frequency data is necessary, which determines the degree of statistical association between the words and attempts to factor out the effects of chance. The most widely used method is the application of so-called association measures, which assign a score to each word pair based on the observed frequency data. The higher this score is, the stronger and more certain the association between the two words.
+The earliest reports of the application of association measures to language data go back to Stevens et al. (1965). Even at that time, an enormous range of different measures was available, borrowed from mathematical statistics and related fields. With so many options, but little guidance as to which measure to choose, Giuliano (1965b, 259) reflected: “One suspects that each has its own possible merits and disadvantages, but the line between the profound and the trivial often appears blurred. One thing which is badly needed is a better understanding of the boundary conditions under which the various techniques are applicable and the expected gains to be achieved through using one or the other of them. . . . it is my feeling that the time is now ripe to conduct carefully controlled experiments of an evaluative nature, . . . ”
+It is amazing to see how little progress has been made in the understanding of word cooccurrences and association measures in the forty years that have passed since these words were written. The reference work that Giuliano felt was so urgently needed – a compendium that lists, explains and compares the multitude of available association measures – has never seen the light of day. My thesis aims to fill this gap, providing both a comprehensive reference and a methodology for the kind of research Giuliano envisaged.},
+  File                     = {:Papiere von anderen/Evert2004_Dissertation.pdf:PDF},
+  Keywords                 = {collocations, corpus linguistics, statistics, cooccurrence},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InProceedings{Evert2004a,
+  Title                    = {A Simple LNRE Model for Random Character Sequences},
+  Author                   = {Stefan Evert},
+  Booktitle                = {Proceedings of JADT 2004},
+  Year                     = {2004},
+
+  Address                  = {Louvain-la-Neuve, Belgium},
+  Pages                    = {411--422},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2004},
+  Abstract                 = {This paper describes a population model for word frequency distributions based on the Zipf-Mandelbrot law, corresponding to the word frequency distribution induced by a random character sequence. The model, which has convenient analytical and numerical properties, is shown to be adequate for the description of language data extracted by automatic means from large text corpora. It can thus be used to study the problems faced by the statistical analysis of such data in the field of natural-language processing.},
+  File                     = {Evert2004-Simple:.\\2004\\Evert2004-Simple.pdf:PDF},
+  Keywords                 = {morphological productivity, Zipf, LNRE, R},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Evert2015,
+  Title                    = {Ziggurat: A new data model and indexing format for large annotated text corpora},
+  Author                   = {Evert, Stefan and Hardie, Andrew},
+  Journal                  = {Challenges in the Management of Large Corpora (CMLC-3)},
+  Year                     = {2015},
+  Pages                    = {21},
+
+  File                     = {Evert2015.pdf:literature/Evert2015.pdf:PDF},
+  Owner                    = {thomas},
+  Timestamp                = {2015.08.31},
+  Url                      = {http://ids-pub.bsz-bw.de/files/3826/Evert_Hardie_Ziggurat_A_new_data_model_and_indexing_format_2015.pdf}
+}
+
+@InProceedings{Evert2011,
+  Title                    = {Twenty-first century Corpus Workbench: Updating a query architecture for the new millennium},
+  Author                   = {Evert, Stefan and Hardie, Andrew},
+  Booktitle                = {Proceedings of the Corpus Linguistics 2011 conference},
+  Year                     = {2011},
+  Publisher                = {University of Birmingham},
+
+  Abstract                 = {Corpus Workbench (CWB) is a widely-used architecture for corpus analysis, originally designed at the IMS, University of Stuttgart (Christ 1994). It consists of a set of tools for indexing, managing and querying very large corpora with multiple layers of word-level annotation. CWB’s central component is the Corpus Query Processor (CQP), an extremely powerful and efficient concordance system implementing a flexible two-level search language that allows complex query patterns to be specified both at the level of an individual word or annotation, and at the level of a fully- or partially-specified pattern of tokens. CWB and CQP are commonly used as the back-end for web-based corpus interfaces, for example, in the popular BNCweb interface to the British National Corpus (Hoffmann et al. 2008). CWB has influenced other tools, such as the Manatee software used in SketchEngine, which implements the same query language (Kilgarriff et al. 2004). This paper details recent work to update CWB for the new century. Perhaps the most significant development is that CWB version 3 is now an open source project, licensed under the GNU General Public Licence. This change has substantially enlarged the community of developers and users and has enabled us to leverage existing open-source libraries in extending CWB’s capabilities. As a result, several key improvements were made to the CWB core: (i) support for multiple character sets, most especially Unicode (in the form of UTF-8), allowing all the world’s writing systems to be utilised within a CWB-indexed corpus; (ii) support for powerful Perl-style regular expressions in CQP queries, based on the open-source PCRE library; (iii) support for a wider range of OS platforms including Mac OS X, Linux, and Windows; and (iv) support for larger corpus sizes of up to 2 billion words on 64-bit platforms. Outside the CWB core, a key concern is the user-friendliness of the interface. CQP itself can be daunting for beginners. However, it is common for access to CQP queries to be provided via a web-interface, supported in CWB version 3 by several Perl modules that give easy access to different facets of CWB/CQP functionality. The CQPweb front-end (Hardie forthcoming) has now been adopted as an integral component of CWB. CQPweb provides analysis options beyond concordancing (such as collocations, frequency lists, and keywords) by using a MySQL database alongside CQP. Available in both the Perl interface and CQPweb is the Common Elementary Query Language (CEQL), a simple-syntax set of search patterns and wildcards which puts much of the power of CQP in a form accessible to beginning students and non-corpus-linguists. The paper concludes with a roadmap for future development of the CWB (version 4 and above), with a focus on even larger corpora, full support for XML and dependency annotation, new types of query languages, and improved efficiency of complex CQP queries. All interested users are invited to help us shape the future of CWB by discussing requirements and contributing to the implementation of these features.},
+  File                     = {Evert2011.pdf:literature/Evert2011.pdf:PDF},
+  Owner                    = {thomas},
+  Review                   = {The IMS Open Corpus Workbench (CWB) [Evert2011] allows searching on annotations on token (positional annotations) and ranges of token (structural annotations). This is a rather “flat” annotation scheme which e.g. can't properly encode general trees. CWBs strength is the support for very large corpora: the authors of CWB claim they can support up to 2.1 billion words.},
+  Timestamp                = {2013.12.06},
+  Url                      = {http://eprints.lancs.ac.uk/62721/}
+}
+
+@Book{FinneganWhyWeQuote2011,
+  Title                    = {Why {{Do We Quote}}? {{The Culture}} and {{History}} of {{Quotation}}},
+  Author                   = {Finnegan, Ruth},
+  Publisher                = {{Open Book Publishers}},
+
+  Date                     = {2011},
+  Doi                      = {10.11647/OBP.0012},
+  Langid                   = {british},
+  Location                 = {{Cambridge}}
+}
+
+@Article{Fleiss1971,
+  Title                    = {Measuring nominal scale agreement among many raters.},
+  Author                   = {Fleiss, Joseph L},
+  Journal                  = {Psychological bulletin},
+  Year                     = {1971},
+  Number                   = {5},
+  Pages                    = {378},
+  Volume                   = {76},
+
+  Owner                    = {thomas},
+  Publisher                = {American Psychological Association},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{Gilquin2008,
+  Title                    = {Combining contrastive and interlanguage analysis to apprehend transfer: detection, explanation, evaluation},
+  Author                   = {Ga{\"e}tanelle Gilquin},
+  Booktitle                = {Linking Up Contrastive and Learner Corpus Research},
+  Publisher                = {Rodopi},
+  Year                     = {2008},
+
+  Address                  = {Amsterdam},
+  Editor                   = {Gilquin, Ga{\"e}tanelle and Papp, Szilvia and Di{\'e}z-Bedmar, Mar{\'i}a Bel{\'e}n},
+  Pages                    = {3--33},
+  Series                   = {Language and computers},
+  Volume                   = {66},
+
+  _isbn                    = {9789042024465},
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2008},
+  Abstract                 = {This paper shows how contrastive analysis and interlanguage analysis can be combined
+info a model which alms 10 detect phenomena 0/ transfer, exp/ain them and evaluate them
+in terms 0/ pedagogical relevance. The model, referred 10 as the Detection-ExplanationEvaluation
+(DEE) transfer model, relies on Granger's (1996) Integrated Contrastive
+Model and Jarvis 's (2000) unified framework Jor transfer research, and uses corpus data
+(18 a basis Jor a range 0/ comparisons between LI (mother langue), L2 (target language)
+and IL (interlanguage). As an illustration, the use 0/ even if by French-speaking leamers
+is investigated, and the possible injluence of L] is examined in the light of the different
+comparisons involved in the model. Finally, some !imitations of the DEE transfer model
+are discussed, all ofwhich point to possible developments that could be implemented in the
+fit/ure.},
+  File                     = {Gilquin2008-Combining:.\\2008\\Gilquin2008-Combining.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08},
+  Xref                     = {Gilquin.2008LinkingUpContrastiveandLearnerCorpusResearch}
+}
+
+@Article{Gilquin2015,
+  Title                    = {The use of phrasal verbs by French-speaking EFL learners. A constructional and collostructional corpus-based approach},
+  Author                   = {Gaëtanelle Gilquin},
+  Journal                  = {Corpus Linguistics and Linguistic Theory},
+  Year                     = {2015},
+  Number                   = {1},
+  Pages                    = {51-88},
+  Volume                   = {11},
+
+  File                     = {:Papiere von anderen\\Gilquin2015CLLT.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.09.22}
+}
+
+@Article{GilquinGries2009,
+  Title                    = {Corpora and experimental methods: a state-of-the-art review},
+  Author                   = {Ga{\"e}tanelle Gilquin and Stefan Th. Gries},
+  Journal                  = {Corpus Linguistics and Linguistic Theory},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {1-26},
+  Volume                   = {5},
+
+  File                     = {:home/anke/hubox/subversion/Papiere von anderen/GilquinGries2009.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.03.29}
+}
+
+@InCollection{Gloning2007,
+  Title                    = {Deutsche Kräuterbücher des 12. bis 18. Jahrhunderts. Textorganisation, Wortgebrauch, funktionale Syntax},
+  Author                   = {Gloning, Thomas},
+  Booktitle                = {Gesund und krank im Mittelalter. Marburger Beiträge zur Kulturgeschichte der Medizin},
+  Publisher                = {Eudora-Verlag},
+  Year                     = {2007},
+
+  Address                  = {Leipzig},
+  Editor                   = {Meyer, Andreas and Schulz-Grobert, Jürgen},
+  Pages                    = {9-88},
+
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Gloning2007Kräuterbücher.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.04.22}
+}
+
+@InCollection{Gloning2010,
+  Title                    = {Funktionale Textbausteine in der historischen Textlinguistik. Eine Schnittstelle zwischen der Handlungsstruktur und der syntaktischen Organisation von Texten.},
+  Author                   = {Thomas Gloning},
+  Booktitle                = {Historische Textgrammatik und Historische Syntax des Deutschen: Traditionen, Innovationen, Perspektiven},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2010},
+  Pages                    = {173--193},
+
+  File                     = {Gloning2010-Funktionale:.\\2010\\Gloning2010-Funktionale.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08},
+  Url                      = {https://korpling.german.hu-berlin.de/svn/bibliographie/2010}
+}
+
+@Article{GoodingTerrasWarwick2013,
+  Title                    = {The myth of the new: Mass digitization, distant reading, and the future of the book},
+  Author                   = {Gooding, Paul and Terras, Melissa and Warwick, Claire},
+  Journal                  = {Literary and Linguistic Computing},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {629--639},
+  Volume                   = {28},
+
+  Doi                      = {10.1093/llc/fqt051},
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.06}
+}
+
+@InCollection{Gries2002,
+  Title                    = {The Influence of Processing on Grammatical Variation: Particle Placement in English},
+  Author                   = {Stefan Th. Gries},
+  Booktitle                = {Verb-Particle Explorations},
+  Publisher                = {Mouton de Gruyter},
+  Year                     = {2002},
+
+  Address                  = {Berlin and New York},
+  Editor                   = {Nicole Dehé and Ray Jackendoff and Andrew McIntyre and Silke Urban},
+  Pages                    = {269--288},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2002},
+  File                     = {Gries2002-Influence:.\\2002\\Gries2002-Influence.pdf:PDF},
+  Keywords                 = {particle verb, phrasal verb, alternation, statistics, corpus linguistics, English},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{Gries-Frequency,
+  Title                    = {Frequency tables: tests, effect sizes, and explorations},
+  Author                   = {Stefan Th. Gries},
+  Booktitle                = {Polysemy and synonymy: corpus methods and applications in Cognitive Linguistics},
+  Publisher                = {John Benjamins},
+  Year                     = {to appear},
+  Editor                   = {Dylan Glynn and Justyna Robinson},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/toappear},
+  File                     = {Gries-Frequenzy:.\\toappear\\Gries-Frequenzy.pdf:PDF},
+  Journal                  = {Polysemy and synonymy: Corpus methods and applications in Cognitive Linguistics. Amsterdam \& Philadelphia: John Benjamins},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{Gries2015-Statistics,
+  Title                    = {Statistics for Learner Corpus Research},
+  Author                   = {Stefan Th. Gries},
+  Booktitle                = {The Cambridge Handbook of Learner Corpus Research},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2015},
+
+  Address                  = {Cambridge},
+  Editor                   = {Sylviane Granger and Ga\"{e}tanelle Gilquin and Fanny Meunier},
+  Pages                    = {159-181},
+
+  File                     = {:Papiere von anderen\\HandbookLearnerCorpora-Proofs\\Chapter 8.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2016.06.03}
+}
+
+@InCollection{Gries2010,
+  Title                    = {Dispersions and Adjusted Frequencies in Corpora: Further Explorations},
+  Author                   = {Stefan Th. Gries},
+  Booktitle                = {Corpus Linguistic Applications: Current Studies, New Directions},
+  Publisher                = {Rodopi},
+  Year                     = {2010},
+
+  Address                  = {Amsterdam},
+  Editor                   = {Stefan Th. Gries and Stefanie Wulff and Mark Davies},
+  Pages                    = {197--212},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2010},
+  Abstract                 = {In order to adjust observed frequencies of occurrence, previous studies have suggested a variety of measures of dispersion and adjusted frequencies. In a previous study, I reviewed many of these measures and suggested an alternative measure, DP (for ‘deviation of proportions’), which I argued to be conceptually simpler and more versatile than many competing measures. However, despite the relevance of dispersion for virtually all corpus-linguistic work, it is still a very much under-researched topic: to the best of my knowledge, there is not a single study investigating how different measures compare to each other when applied to large datasets, nor is there any work that attempts to determine how different measures match up with the kind of psycholinguistic data that dispersions and adjusted frequencies are supposed to represent. This article takes exploratory steps in both of these directions.},
+  File                     = {Gries2010-Dispersions:.\\2010\\Gries2010-Dispersions.pdf:PDF},
+  Keywords                 = {dispersion, corpus linguistics, statistics},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{Gries2008,
+  Title                    = {Corpus-based Methods in Analyses of Second Language Acquisition Data},
+  Author                   = {Stefan Thomas Gries},
+  Booktitle                = {Handbook of Cognitive Linguistics and Second Language Acquisition},
+  Publisher                = {Routledge},
+  Year                     = {2008},
+  Editor                   = {Robinson, Peter and Ellis, Nick C.},
+  Pages                    = {406--431},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2008},
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Gries2008-Corpus-based.pdf:PDF;Gries2008-Corpus-based:.\\2008\\Gries2008-Corpus-based.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08},
+  Xref                     = {Robinson.2008Handbookofcognitivelinguisticsandsecondlangu}
+}
+
+@Unpublished{Gries-Construction,
+  Title                    = {Data in Construction Grammar},
+  Author                   = {Stefan Th. Gries},
+  Note                     = {to appear in: The Oxford Handbook of Construction Grammar},
+  Year                     = {to appear},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/toappear},
+  File                     = {Gries-Construction:.\\toappear\\Gries-Construction.pdf:PDF},
+  Journal                  = {The Oxford Handbook of Construction Grammar},
+  Keywords                 = {Construction Grammar},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Gries2015,
+  Title                    = {Some Current Quantitative Problems in Corpus Linguistics and a Sketch of Some Solutions},
+  Author                   = {Stefan Th. Gries},
+  Journal                  = {Language and Linguistics},
+  Year                     = {2015},
+  Number                   = {1},
+  Pages                    = {93-117},
+  Volume                   = {16},
+
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Gries2015LanguageLinguistics.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.03.01}
+}
+
+@Article{Gries2015-Models,
+  Title                    = {The most underused statistical method in corpus linguistics: Multi-level (and mixed-effects) models},
+  Author                   = {Stefan Th. Gries},
+  Journal                  = {Corpora},
+  Year                     = {2015},
+  Number                   = {1},
+  Pages                    = {95-125},
+  Volume                   = {10},
+
+  File                     = {:home/anke/hubox/subversion/Papiere von anderen/Gries2015-Models.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.03.29}
+}
+
+@Article{Gries2012,
+  Title                    = {Statistische Modellierung},
+  Author                   = {Stefan Th. Gries},
+  Journal                  = {Zeitschrift für Germanistische Linguistik},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {38--67},
+  Volume                   = {40},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2012},
+  Abstract                 = {This paper provides an overview of central aspects of statistical modeling
+of linguistic data. Starting from a general definition of model, the paper
+discusses the goals of modeling as well as a variety of issues bearing upon the
+formulation/definition of statistical models. It then surveys model selection, the
+choice of ‘the best model’ and three fundamental notions affecting the interpretation
+of models. Finally, the paper turns to validation and replicability and
+addresses a variety of challenges researchers face during modeling processes.},
+  File                     = {Gries2012-Statistische:.\\2012\\Gries2012-Statistische.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Gries2011,
+  Title                    = {Corpus data in usage-based linguistics},
+  Author                   = {Stefan Th. Gries},
+  Journal                  = {Cognitive Linguistics: Convergence and Expansion},
+  Year                     = {2011},
+  Pages                    = {1--16},
+  Volume                   = {1},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2011},
+  File                     = {Gries2011-Corpus:.\\2011\\Gries2011-Corpus.pdf:PDF},
+  Keywords                 = {corpora, corpus data, ditransitive, granularity},
+  Owner                    = {anke},
+  Publisher                = {John Benjamins Pub Co},
+  Timestamp                = {2018.07.08}
+}
+
+@Book{Gries2009,
+  Title                    = {Quantitative Corpus Linguistics with R: A Practical Introduction},
+  Author                   = {Stefan Thomas Gries},
+  Publisher                = {Routledge},
+  Year                     = {2009},
+
+  Address                  = {New York},
+  Edition                  = {1. publ.},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009},
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Gries2009-Quantitative.pdf:PDF;Gries2009-Quantitative:.\\2009\\Gries2009-Quantitative.pdf:PDF},
+  ISBN                     = {9780415962711},
+  Keywords                 = {corpus linguistics, computational linguistics, Linguistics, Statistical methods, R (Computer program language), Linguistic analysis, (Linguistics) Data processing, Korpus <Linguistik>, Sprachstatistik, R <Programm>},
+  Owner                    = {anke},
+  Price                    = {{\pounds}23.99},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Gries2008-Dispersions,
+  Title                    = {Dispersions and Adjusted Frequencies in Corpora},
+  Author                   = {Stefan Th. Gries},
+  Journal                  = {International Journal of Corpus Linguistics},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {403--437},
+  Volume                   = {13},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2008},
+  Abstract                 = {The most frequent statistics in corpus linguistics are frequencies of occurrence and frequencies of co-occurrence of two or more linguistic variables. However, such frequencies in isolation may sometimes be misleading since they do not take into consideration the degree of dispersion of the relevant linguistic variable. Many dispersion measures and adjusted frequency measures have been suggested but are neither widely known nor applied. Another unfortunate aspect of such measures is that many also come with a variety of problems. I pursue three objectives with this article. First, I want to raise awareness of this issue and make the available measures more widely known, so I present an overview of many measures of dispersion and adjusted frequencies. Second, I propose a conceptually simple alternative measure, DP, explain and exemplify it, and compare it to previously discussed measures. Third and most importantly, I urge corpus linguists to explore the notion of dispersion in more detail and outline a few proposals which steps to take next.},
+  File                     = {Gries2008-Dispersions:.\\2008\\Gries2008-Dispersions.pdf:PDF},
+  Keywords                 = {dispersion, corpus linguistics, statistics},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Gries2006,
+  Title                    = {Exploring variability within and between corpora: some methodological considerations},
+  Author                   = {Gries, Stefan Th.},
+  Journal                  = {Corpora},
+  Year                     = {2006},
+  Number                   = {2},
+  Pages                    = {109-151},
+  Volume                   = {1},
+
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Gries2006ExploringVariability_Corpora-1.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2013.09.24}
+}
+
+@Article{Gries2005,
+  Title                    = {Syntactic Priming: A Corpus-based Approach},
+  Author                   = {Stefan Th. Gries},
+  Journal                  = {Journal of Psycholinguistic Research},
+  Year                     = {2005},
+  Number                   = {4},
+  Pages                    = {365--399},
+  Volume                   = {34},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2005},
+  Abstract                 = {The present study is a corpus-based investigation of syntactic priming, i.e. the tendency to reuse syntactic constructions. On the basis of data from the ICE-GB corpus, I analyze two different pairs of syntactic patterns, the so-called dative alternation and particle placement of transitive phrasal verbs. Although it has sometimes been argued that only experimental data can contribute to studies of priming, the analysis shows that (a) the corpus-based results for datives are very similar to the experimental ones; (b) priming is also obtained for the verb-particle construction, a construction hitherto not explored in the priming literature and (c), most importantly, in line with much previous psycholinguistic and corpus-linguistic work, priming effects turn out to be strongly verb-specific such that some verbs are much more resistant or responsive to priming than others. I conclude with a discussion of how corpus data relate to experimental data and how the corpus-based findings can contribute to psycholinguistic model building.},
+  File                     = {Gries2005-Syntactic:.\\2005\\Gries2005-Syntactic.pdf:PDF},
+  Keywords                 = {syntactic priming, recency, persistence, dative alternation, particle verbs, English, corpus linguistics, quantitative},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{GriesDeshors2015,
+  Title                    = {EFL and/vs. ESL. A Multi-Level Regression Modelling on Bridging the Paradigm Gap},
+  Author                   = {Stefan Th. Gries and Sandra C. Deshors},
+  Journal                  = {International Journal of Learner Corpus Research},
+  Year                     = {2015},
+  Number                   = {1},
+  Pages                    = {130-159},
+  Volume                   = {1},
+
+  Doi                      = {doi 10.1075/ijlcr.1.1.05gri},
+  File                     = {:Papiere von anderen\\GriesDeshors2015_MultilevelEFL&ESL_IJLCR.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2016.04.13}
+}
+
+@Article{GriesHilpert2010,
+  Title                    = {Modeling diachronic change in the third person singular: a multifactorial, verb- and author-specific exploratory approach},
+  Author                   = {Stefan Th. Gries and Martin Hilpert},
+  Journal                  = {English Language and Linguistics},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {293--320},
+  Volume                   = {14},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2010},
+  Abstract                 = {This study addresses the development of the English third-person singular present tense
+suffix from an interdental fricative (giveth) to an alveolar fricative (gives). Based on the
+PCEEC corpus, we analyze more than 20,000 examples from the time between 1417 and
+1681 to determine (i) the temporal stages in which this development took place and (ii)
+the factors that are correlated with this change.
+As for (i), we use a bottom-up clustering method which shows that the shift from -(e)th
+to -(e)s is best characterized as consisting of five stages. As for (ii), we examine multiple
+language-internal and language-external factors, including several variables proposed in
+earlier accounts. We fit a generalized linear mixed-effects model, which allows us to
+predict nearly 95 per cent of all inflectional choices correctly, thus revealing which factors
+shaped the development over time in a data-driven and highly precise way.},
+  File                     = {GriesHilpert2010-Modeling:.\\2010\\GriesHilpert2010-Modeling.pdf:PDF},
+  Owner                    = {anke},
+  Publisher                = {Cambridge Univ Press},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{GriesHilpert2008,
+  Title                    = {The identification of stages in diachronic data: variability-based neighbour clustering},
+  Author                   = {Stefan Th. Gries and Martin Hilpert},
+  Journal                  = {Corpora},
+  Year                     = {2008},
+  Number                   = {1},
+  Pages                    = {59--81},
+  Volume                   = {3},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2008},
+  Abstract                 = {In this paper, we introduce a data-driven bottom-up clustering method for
+the identification of stages in diachronic corpus data that differ from each
+other quantitatively. Much like regular approaches to hierarchical clustering,
+it is based on identifying and merging the most cohesive groups of data
+points, but, unlike regular approaches to clustering, it allows for the merging
+of temporally adjacent data, thus, in effect, preserving the chronological
+order. We exemplify the method with two case studies, one on verbal
+complementation of shall, the other on the development of the perfect in
+English.},
+  File                     = {GriesHilpert2008-Identification:.\\2008\\GriesHilpert2008-Identification.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{GriesStefanowitsch2004,
+  Title                    = {Extending Collostructional Analysis: A Corpus-based Perspective on 'Alternations'},
+  Author                   = {Stefan Th. Gries and Anatol Stefanowitsch},
+  Journal                  = {International Journal of Corpus Linguistics},
+  Year                     = {2004},
+  Number                   = {1},
+  Pages                    = {97--129},
+  Volume                   = {9},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2004},
+  Abstract                 = {This paper introduces an extension of distinctive-collocate analysis that takes into account grammatical structure and is specifically geared to investigating pairs of semantically similar grammatical constructions and the lexemes that occur in them. The method, referred to as 'distinctive-collexeme analysis', identifies lexemes that exhibit a strong preference for one member of the pair as opposed to the other, and thus makes it possible to identify subtle distributional differences between the members of such a pair. The method can be applied in the context of what is sometimes referred to as ‘grammatical alternation’ (e.g. the dative alternation), but it can also be applied to other choices provided by the grammar (such as the two future tense constructions in English). The method has two main applications. First, it can reveal subtle differences between seemingly synonymous constructions, many of which are difficult to identify on the basis of more traditional approaches. Second, it can be used to investigate the very notion of ‘alternation’; we show that many alternations are much more restricted than has hitherto been assumed, and thus confirm the claims of recent, non-derivational views of grammar.},
+  File                     = {GriesStefanowitsch2004-Extending:.\\2004\\GriesStefanowitsch2004-Extending.pdf:PDF},
+  Keywords                 = {collostructions, distinctive collexeme analysis, statistics, corpus linguistics},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{GriesWulff2005,
+  Title                    = {Do Foreign Language Learners also have Constructions?},
+  Author                   = {Stefan Th. Gries and Stefanie Wulff},
+  Journal                  = {Annual Review of Cognitive Linguistics},
+  Year                     = {2005},
+  Number                   = {3},
+  Pages                    = {182--200},
+  Volume                   = {3},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2005},
+  Abstract                 = {In Construction Grammar, the ultimate grammatical unit is the construction, a conventionalized form-meaning pairing. We present interrelated evidence from three different methods, all of which speak in favor of attributing an ontological status to constructions for non-native speakers of English. Firstly, in a sentence-fragment completion study with German learners of English, we obtained a significant priming effect between constructions. Secondly, these priming effects correlate strongly with the verb-construction preferences in native speaker corpora: verbs which are strongly associated with one construction resist priming to another semantically compatible construction; more importantly, the priming effects do not correlate with verb-construction preferences from German translation equivalents, ruling out a translational explanation. Thirdly, in order to rule out an alternative account in terms of syntactic rather than constructional priming, we present semantic evidence obtained by a sorting study, showing that subjects exhibited a strong tendency towards a construction-based sorting, which even reflects recent explanations of how constructions are related.},
+  File                     = {GriesWulff2005-Do:.\\2005\\GriesWulff2005-Do.pdf:PDF},
+  Keywords                 = {priming, sorting, corpus linguistics, learner, L2, construction grammar},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@PhdThesis{Grieve2009,
+  Title                    = {A Corpus-Based Regional Dialect Survey of Grammatical Variation in Written Standard American English.},
+  Author                   = {Jack Grieve},
+  School                   = {Northern Arizona University},
+  Year                     = {2009},
+
+  Abstract                 = {This dissertation describes the methods and the results of a corpus-based regional dialect
+survey of grammatical variation in written Standard American English. The primary
+goals of this survey are to identify grammatical features that are regionally patterned in
+written Standard American English and to use this information to map regional American
+dialects. This is the first survey of regional grammatical variation in American English
+and the first survey of regional linguistic variation in written Standard American English.
+This survey is based on a unique approach to data collection and data analysis,
+which makes use of techniques commonly employed in corpus linguistic and quantitative
+geography. The values of 45 continuous grammatical variables were measured
+computationally across a 25 million word corpus of letters to the editor representing the
+language of 200 cities from across the United States. The regional distribution of each
+variable was then analyzed using global and local spatial autocorrelation statistics in
+order to identify variables whose values are regionally patterned in the corpus. Finally,
+the grammatical variables were analyzed as a group using spatial autocorrelation
+statistics, principal component analysis and hierarchical cluster analysis in order to
+identify general patterns of regional linguistic variation and in order to map American
+dialect regions. Using this methodology, numerous regionally patterned grammatical features
+were identified and a taxonomy of American regional dialects was produced that
+identified 12 primary American dialect regions: the Pacific Northwest, the Pacific
+Southwest, the Mountain West, West Texas, the Eastern Midwest, the Western Midwest,
+the South Central, the Deep South, the Upper South, the South Atlantic, the Middle
+Atlantic and New England. These dialect regions are similar to the dialect regions
+identified by previous American dialect surveys but also differ in numerous important
+ways. In order to account for these findings, it is demonstrated that the dialect regions
+identified by this survey correspond closely to modern American cultural areas.
+Furthermore, it is argued that the differences between the results of this survey and the
+results of previous American dialect surveys, which are based on historical forms of
+English, probably reflect regional dialect change resulting from changing American
+cultural areas.},
+  File                     = {Grieve2009-Corpus-Based:.\\2009\\Grieve2009-Corpus-Based.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17},
+  Url                      = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009}
+}
+
+@InBook{Habermann2001,
+  Title                    = {Deutsche Fachtexte der frühen Neuzeit: naturkundlich-medizinische Wissensvermittlung im Spannungsfeld von Latein und Volkssprache},
+  Author                   = {Mechthild Habermann},
+  Chapter                  = {Frühneuzeitliche Kräuterbücher und ihre makrostrukturelle Textorganisation},
+  Pages                    = {98--167},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2001},
+
+  Address                  = {Berlin},
+  Volume                   = {61},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2001},
+  File                     = {Habermann2001-Deutsche:.\\2001\\Habermann2001-Deutsche.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14}
+}
+
+@Book{HartwegWegera2005,
+  Title                    = {Frühneuhochdeutsch. Eine Einführung in die deutsche Sprache des Spätmittelalters und der frühen Neuzeit},
+  Author                   = {Frédérik Hartweg and Klaus-Peter Wegera},
+  Publisher                = {Narr},
+  Year                     = {2005},
+
+  Date-added               = {2017-02-28 10:14:18 +0000},
+  Date-modified            = {2017-02-28 10:15:11 +0000},
+  Location                 = {Tübingen},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InCollection{HilpertGries2016,
+  Title                    = {Quantitative Approaches to Diachronic Corpus Linguistics},
+  Author                   = {Martin Hilpert and Stefan Th. Gries},
+  Booktitle                = {The Cambridge Handbook of English Historical Linguistics},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2016},
+
+  Address                  = {Cambridge},
+  Editor                   = {Merja Kyt\"{o} and Päivi Pahta},
+  Pages                    = {36-53},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.03.02}
+}
+
+@Article{HilpertGries2009,
+  Title                    = {Assessing frequency changes in multistage diachronic corpora: Applications for historical corpus linguistics and the study of language acquisition},
+  Author                   = {Martin Hilpert and Stefan Th. Gries},
+  Journal                  = {Literary and Linguistic Computing},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {385--401},
+  Volume                   = {24},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009},
+  Abstract                 = {The use of corpora that are divided into temporally ordered stages is becoming
+increasingly wide-spread in historical corpus linguistics. This development is
+partly due to the fact that more and more resources of this kind are being
+developed. Since the assessment of frequency changes over multiple periods of
+time is a relatively recent practice, there are few agreed-upon standards of how
+such trends should be statistically interpreted. This article addresses the need for
+a basic analytical toolbox that is specifically tailored to the interpretation of
+frequency changes in multistage diachronic corpora. We present a number of
+suggestions for the analysis of data that analysts commonly face in historical
+studies, but also in the study of language acquisition.},
+  File                     = {HilpertGries2009-Assessing:.\\2009\\HilpertGries2009-Assessing.pdf:PDF},
+  Owner                    = {anke},
+  Publisher                = {ALLC},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Himmelmann2012,
+  Title                    = {Linguistic Data Types and the Interface between Language Documentation and Description},
+  Author                   = {Nikolaus P. Himmelmann},
+  Journal                  = {Language Documentation \& Conservation},
+  Year                     = {2012},
+  Pages                    = {187--207},
+  Volume                   = {6},
+
+  Abstract                 = {This paper presents a new definition of documentary linguistics, based on a typology of
+linguistic data types. It clarifies the distinction between raw, primary, and structural data
+and argues that documentary linguistics is concerned with raw and primary data and their
+interrelationships, while descriptive linguistics is concerned with the relations between
+primary and structural data. The fact that primary data are of major concern in both fields
+reflects the fact that the two fields are very closely interlinked and difficult to separate in
+actual practice. The details of their interaction in actual practice, however, are still a matter
+for further discussion and investigation, as the second main part of the paper attempts to
+make clear.},
+  File                     = {Himmelmann2012-Linguistic:.\\2012\\Himmelmann2012-Linguistic.pdf:PDF},
+  Owner                    = {anke},
+  Publisher                = {University of Hawai'i Press},
+  Timestamp                = {2018.07.10}
+}
+
+@InProceedings{Ide2007,
+  Title                    = {{GrAF}: A Graph-based Format for Linguistic Annotations},
+  Author                   = {Ide, Nancy and Suderman, Keith},
+  Booktitle                = {Proceedings of the Linguistic Annotation Workshop},
+  Year                     = {2007},
+
+  Address                  = {Stroudsburg, PA, USA},
+  Pages                    = {1--8},
+  Publisher                = {Association for Computational Linguistics},
+  Series                   = {LAW '07},
+
+  Acmid                    = {1642060},
+  File                     = {Ide2007.pdf:literature/Ide2007.pdf:PDF},
+  Location                 = {Prague, Czech Republic},
+  Numpages                 = {8},
+  Owner                    = {thomas},
+  Timestamp                = {2014.05.20},
+  Url                      = {http://dl.acm.org/citation.cfm?id=1642059.1642060}
+}
+
+@Book{Jockers2014,
+  Title                    = {Text analysis with {R} for students of literature},
+  Author                   = {Matthew Lee Jockers},
+  Publisher                = {Springer},
+  Year                     = {2014},
+
+  Address                  = {Berlin},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.25}
+}
+
+@InProceedings{Kilgarriff2012,
+  Title                    = {Getting to know your corpus},
+  Author                   = {Adam Kilgarriff},
+  Booktitle                = {Text, Speech and Dialogue},
+  Year                     = {2012},
+  Organization             = {Springer},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2012},
+  Abstract                 = {Corpora are not easy to get a handle on. The usual way of getting to
+grips with text is to read it, but corpora are mostly too big to read (and not designed
+to be read). We show, with examples, how keyword lists (of one corpus
+vs: another) are a direct, practical and fascinating way to explore the characteristics
+of corpora, and of text types. Our method is to classify the top one hundred
+keywords of corpus1 vs: corpus2, and corpus2 vs: corpus1. This promptly reveals
+a range of contrasts between all the pairs of corpora we apply it to. We also
+present improved maths for keywords, and briefly discuss quantitative comparisons
+between corpora. All the methods discussed (and almost all of the corpora)
+are available in the Sketch Engine, a leading corpus query tool.},
+  File                     = {Kilgarriff2012-Getting:.\\2012\\Kilgarriff2012-Getting.pdf:PDF},
+  Keywords                 = {corpora, corpus similarity, keywords, keyword lists, Sketch Engine},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.23}
+}
+
+@Article{Kilgarriff2005,
+  Title                    = {Language is never, ever, ever, random},
+  Author                   = {Adam Kilgarriff},
+  Journal                  = {Corpus Linguistics and Linguistic Theory},
+  Year                     = {2005},
+  Number                   = {2},
+  Pages                    = {263--275},
+  Volume                   = {1},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2005},
+  Abstract                 = {Language users never choose words randomly, and language is essentially non-random. Statistical hypothesis testing uses a null hypothesis, which posits randomness. Hence, when we look at linguistic phenomena in corpora, the null hypothesis will never be true. Moreover, where there is enough data, we shall (almost) always be able to establish that it is not true. In corpus studies, we frequently do have enough data, so the fact that a relation between two phenomena is demonstrably non-random, does not support the inference that it is not arbitrary. We present experimental evidence of how arbitrary associations between word frequencies and corpora are systematically non-random. We review literature in which hypothesis testing has been used, and show how it has often led to unhelpful or misleading results},
+  File                     = {Kilgarriff2005-Language:.\\2005\\Kilgarriff2005-Language.pdf:PDF},
+  Keywords                 = {corpus linguistics, statistics, hypothesis testing, representative, theory},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@PhdThesis{Krause2018,
+  Title                    = {ANNIS: A graph-based query system for deeply annotated text corpora},
+  Author                   = {Thomas Krause},
+  School                   = {Humboldt-Universität zu Berlin},
+  Year                     = {2018},
+  Note                     = {submitted},
+
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.23}
+}
+
+@Article{Krause2016a,
+  Title                    = {{graphANNIS: A Fast Query Engine for Deeply Annotated Linguistic Corpora}},
+  Author                   = {Thomas Krause and Ulf Leser and Anke L{\"u}deling},
+  Journal                  = {JLCL},
+  Year                     = {2016},
+  Number                   = {1},
+  Pages                    = {1--25},
+  Volume                   = {31},
+
+  File                     = {Krause2016a.pdf:literature/Krause2016a.pdf:PDF},
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.15},
+  Url                      = {http://www.jlcl.org/2016_Heft1/jlcl-2016-1-1KrauseEtAl.pdf}
+}
+
+@InProceedings{Krause2018a,
+  Title                    = {Designing a Re-Usable and Embeddable Corpus Search Library},
+  Author                   = {Thomas Krause and Ulf Leser and Anke Lüdeling and Stephan Druskat},
+  Booktitle                = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  Year                     = {2018},
+
+  Address                  = {Paris, France},
+  Editor                   = {Piotr Banski and Marc Kupietz and Adrien Barbaresi and Hanno Biber and Evelyn Breiteneder and Simon Clematide and Andreas Witt},
+  Month                    = {may},
+  Publisher                = {European Language Resources Association (ELRA)},
+
+  Date                     = {7-12},
+  ISBN                     = {979-10-95546-14-6},
+  Language                 = {english},
+  Location                 = {Miyazaki, Japan},
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.23}
+}
+
+@Article{Krause2016,
+  Title                    = {{{ANNIS3}}: A new architecture for generic corpus query and visualization},
+  Author                   = {Krause, Thomas and Zeldes, Amir},
+  Journal                  = {Digital Scholarship in the Humanities},
+  Year                     = {2016},
+  Number                   = {1},
+  Pages                    = {118--139},
+  Volume                   = {31},
+
+  Abstract                 = {This article is concerned with the data structures, properties of query languages, and visualization facilities required for the generic representation of richly annotated, heterogeneous linguistic corpora. We propose that above and beyond a general graph-based data model, which is becoming increasingly popular in many complex annotation formats, a well-defined concept of multiple, potentially conflicting segmentation layers must be introduced to deal with different sources and applications of corpus data flexibly. We also propose a generic solution for specialized corpus visualizations in a Web interface using annotation-triggered style sheets, which leverage the power of modern browsers and CSS for multiple and highly customizable views of primary data. We offer an implementation and evaluation of our architecture in ANNIS3, an open-source browser-based architecture for corpus search and visualization. We present three case studies to test the coverage of the system, encompassing core linguistic and digital humanities use-cases including richly annotated newspaper treebanks, multilingual diplomatic and normalized manuscript materials edited in TEI, and analysis of multimodal recordings of spoken language.},
+  Doi                      = {10.1093/llc/fqu057},
+  File                     = {Krause2016.pdf:literature/Krause2016.pdf:PDF},
+  ISSN                     = {2055-7671},
+  Owner                    = {thomas},
+  Publisher                = {The Oxford University Press},
+  Timestamp                = {2018.07.10}
+}
+
+@Article{KunzLapshinova2015,
+  Title                    = {Cross-Linguistic Analysis of Discourse Variation Across Registers},
+  Author                   = {Kerstin Kunz and Ekaterina Lapshinova-Koltunski},
+  Journal                  = {Nordic Journal of English Studies},
+  Year                     = {2015},
+  Pages                    = {258-288},
+
+  File                     = {:Papiere von anderen\\KunzLapshinova2015.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.07.05}
+}
+
+@TechReport{Kytoe1996,
+  Title                    = {Manual to the Diachronic Part of The Helsinki Corpus of English Texts: Coding Conventions and Lists of Source Texts},
+  Author                   = {Merja Kyt{\"o}},
+  Institution              = {University of Helsinki},
+  Year                     = {1996},
+  Type                     = {ICAME Report},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.16},
+  Url                      = {http://clu.uni.no/icame/manuals/HC/INDEX.HTM}
+}
+
+@Article{LudelingZeldes2007,
+  Title                    = {Three Views on Corpora: Corpus Linguistics, Literary Computing, and Computational Linguistics},
+  Author                   = {L{\"u}deling, Anke and Zeldes, Amir},
+  Journal                  = {Jahrbuch f{\"u}r Computerphilologie},
+  Year                     = {2007},
+  Number                   = {9},
+  Pages                    = {149--178},
+
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.06}
+}
+
+@InCollection{Labov2004,
+  Title                    = {Quantitative Analysis of Linguistic Variation},
+  Author                   = {William Labov},
+  Booktitle                = {Sociolinguistics. An International Handbook of the Science of Language and Society},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2004},
+
+  Address                  = {Berlin},
+  Editor                   = {Ulrich Ammon and Norbert Dittmar and Klaus J. Mattheier and Peter Trudgill},
+  Pages                    = {6--21},
+  Series                   = {HSK},
+  Volume                   = {1},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2004},
+  Abstract                 = {The study of linguistic variation requires a familiarity with both the basic tools of qualitative linguistic analysis and quantitative methods for pursuing that analysis to deeper levels. This presentation will assume a basic familiarity with both sets of tools, and focus upon how they are used to address the major questions of linguistic structure and linguistic change. Given the output of quantitative analyses, we ask, what good are they? What inferences and implications can be found in these numbers that justify the time and energy needed to produce them? What are the principles of quantitative reasoning that allow us to pass from the measurement of surface fluctuations to the underlying forms and principles that produce them?},
+  File                     = {Labov2004-Quantitative:.\\2004\\Labov2004-Quantitative.pdf:PDF},
+  Keywords                 = {variationism, sociolinguistics, quantitative},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{Labov2004a,
+  Title                    = {Quantitative Analysis of Linguistic Variation},
+  Author                   = {William Labov},
+  Booktitle                = {Sociolinguistics. An International Handbook of the Science of Language and Society},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2004},
+
+  Address                  = {Berlin},
+  Editor                   = {Ulrich Ammon and Norbert Dittmar and Klaus J. Mattheier and Peter Trudgill},
+  Pages                    = {6--21},
+  Series                   = {HSK},
+  Volume                   = {1},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2004},
+  Abstract                 = {The study of linguistic variation requires a familiarity with both the basic tools of qualitative linguistic analysis and quantitative methods for pursuing that analysis to deeper levels. This presentation will assume a basic familiarity with both sets of tools, and focus upon how they are used to address the major questions of linguistic structure and linguistic change. Given the output of quantitative analyses, we ask, what good are they? What inferences and implications can be found in these numbers that justify the time and energy needed to produce them? What are the principles of quantitative reasoning that allow us to pass from the measurement of surface fluctuations to the underlying forms and principles that produce them?},
+  File                     = {Labov2004-Quantitative:.\\2004\\Labov2004-Quantitative.pdf:PDF},
+  Keywords                 = {variationism, sociolinguistics, quantitative},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{Labov1982,
+  Title                    = {Building on Empirical Foundations},
+  Author                   = {William Labov},
+  Booktitle                = {Perspectives on Historical Linguistics},
+  Publisher                = {Benjamins},
+  Year                     = {1982},
+
+  Address                  = {Amsterdam},
+  Editor                   = {Winfred P. Lehman and Yakov Malkiel},
+  Pages                    = {79-92},
+
+  Owner                    = {anke},
+  Timestamp                = {2017.11.27}
+}
+
+@Article{Labov2008,
+  Title                    = {Quantitative Reasoning in Linguistics},
+  Author                   = {William Labov},
+  Year                     = {2008},
+
+  Abstract                 = {The study of linguistic variation requires a familiarity with both the basic tools
+of qualitative linguistic analysis and quantitative methods of for pursuing that analysis
+to deeper levels. This presentation will assume a basic familiarity with both sets of
+tools, and focus upon how they are used to address the major questions of linguistic
+structure and linguistic change. Given the output of quantitative analyses, we ask, what
+good are they? what inferences and implications can be found in these numbers that
+justify the time and energy needed to produce them? What are the principles of
+quantitative reasoning that allow us to pass from the measurement of surface
+fluctuations to the underlying forms and principles that produce them?},
+  File                     = {Labov2008-Quantitative:.\\2008\\Labov2008-Quantitative.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17},
+  Url                      = {http://www.ling.upenn.edu/~wlabov/Papers/QRL.pdf}
+}
+
+@Book{Labov2006,
+  Title                    = {The Social Stratification of English in New York City},
+  Author                   = {William Labov},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2006},
+  Edition                  = {2 (first edition 1966)},
+
+  File                     = {:Papiere von anderen/Labov2006_The social stratification of English in NYC(1).pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2017.10.31}
+}
+
+@Book{Labov2001,
+  Title                    = {Principles of Linguistic Change. Volume II: Social Factors.},
+  Author                   = {William Labov},
+  Publisher                = {Blackwell},
+  Year                     = {2001},
+
+  Address                  = {Oxford},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2014.06.19}
+}
+
+@InBook{Labov2001-Principles,
+  Title                    = {Principles of Linguistic Change - Social Factors},
+  Author                   = {William Labov},
+  Chapter                  = {Kapitel 2: The social stratification of (r) in New York City department stores},
+  Pages                    = {43--69},
+  Publisher                = {Blackwell, Oxford},
+  Year                     = {2001},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2001},
+  File                     = {Labov2001-Principles:.\\2001\\Labov2001-Principles.pdf:PDF},
+  Keywords                 = {sociolinguistics, variable, change, variation, social stratification},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@Article{Labov2001-Review,
+  Title                    = {Review of Penelope Eckert, Linguistic variation as social practice.},
+  Author                   = {William Labov},
+  Journal                  = {Language in Society},
+  Year                     = {2001},
+  Pages                    = {277–306},
+  Volume                   = {31},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2001},
+  File                     = {Labov2001-Review:.\\2001\\Labov2001-Review.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{Labov1997,
+  Title                    = {The Social Stratification of (r) in New York City Department Stores},
+  Author                   = {William Labov},
+  Booktitle                = {Sociolinguistics: A Reader},
+  Publisher                = {Nikolas Coupland and Adam Jaworski; Macmillan},
+  Year                     = {1997},
+  Chapter                  = {3},
+  Pages                    = {168--178},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1997},
+  File                     = {Labov1997-Social:.\\1997\\Labov1997-Social.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@Article{Labov1978,
+  Title                    = {Where Does the Linguistic Variable Stop? A Response to Beatriz Lavandera.},
+  Author                   = {William Labov},
+  Journal                  = {Working Papers in Sociolinguistics},
+  Year                     = {1978},
+  Pages                    = {1--22},
+  Volume                   = {44},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1978},
+  File                     = {Labov1978-Where:.\\1978\\Labov1978-Where.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InBook{Labov1972-Sociolinguistic,
+  Title                    = {Sociolinguistic patterns},
+  Author                   = {William Labov},
+  Chapter                  = {Kapitel 2: The study of linguistic change and variation in Philadelphia, Kapitel 3: Stable sociolinguistic variables},
+  Pages                    = {35--92},
+  Publisher                = {Univ of Pennsylvania Press},
+  Year                     = {1972},
+  Volume                   = {4},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1972},
+  File                     = {Labov1972-Sociolinguistic:.\\1972\\Labov1972-Sociolinguistic.zip:PDF},
+  Keywords                 = {sociolinguistics, change, variation, variable},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@Article{Labov1972-Some,
+  Title                    = {Some Principles of Linguistic Methodology},
+  Author                   = {William Labov},
+  Journal                  = {Language in Society},
+  Year                     = {1972},
+  Number                   = {1},
+  Pages                    = {97--120},
+  Volume                   = {1},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1972},
+  Abstract                 = {Current difficulties in achieving intersubjective agreement in linguistics
+require attention to principles of methodology which consider sources of
+error and ways to eliminate them. The methodological assumptions and
+practices of various branches of linguistics are considered from the standpoint
+of the types of data gathered: texts, elicitations, intuitions and observations.
+Observations of the vernacular provide the most systematic basis for
+linguistic theory, but have been the most difficult kinds of data for linguists
+to obtain; techniques for solving the problems encountered are outlined.
+Intersubjective agreement is best reached by convergence of several kinds
+of data with complementary sources of error.},
+  File                     = {Labov1972-Some:.\\1972\\Labov1972-Some.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@Book{Labov1969,
+  Title                    = {A Study of Non-Standard English},
+  Author                   = {William Labov},
+  Publisher                = {Center for Applied Linguistics, Washington, D.C.},
+  Year                     = {1969},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1969},
+  File                     = {Labov1969-Study:.\\1969\\Labov1969-Study.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@Book{Labov1966,
+  Title                    = {The Social Stratification of English in New York City},
+  Author                   = {William Labov},
+  Publisher                = {Center for Applied Linguistics, Washington, D.C.},
+  Year                     = {1966},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2014.06.19}
+}
+
+@Article{Lezius2002,
+  Title                    = {{TIGERSearch Ein Suchwerkzeug für Baumbanken}},
+  Author                   = {Lezius, Wolfgang},
+  Journal                  = {Tagungsband zur Konvens},
+  Year                     = {2002},
+
+  Abstract                 = {In diesem Papier stellen wir die Konzeption und Implementation der Software TIGERSearch vor, die ein Suchwerkzeug für Baumbanken zur Ver- fügung stellt. Die Software ist für Forschungs- zwecke frei verf gbar und kann ber die WWW- Seite des Projekts bezogen werden.},
+  File                     = {Lezius2002.pdf:literature/Lezius2002.pdf:PDF},
+  Keywords                 = {gelesen, Konkrete_System, Linguistische_Anfragesprachen},
+  Owner                    = {thomas},
+  Review                   = {In contrast TIGERSearch [Lezius2002] was designed to handle a collection of sentences which are annotated with syntax trees according to the TIGER annotation scheme [Brants2004]. TIGERSearch uses an index on the label values to restrict the search to certain sentences, but it does not use an index on the tree structure itself. Since annotations are always limited to a single sentence TIGERSearch can still perform a very fast traversal search on each sentence and take advantage of the reduced search space.},
+  Timestamp                = {2013.12.06}
+}
+
+@InCollection{LuedelingHirschmann2015,
+  Title                    = {Error Annotation},
+  Author                   = {Anke Lüdeling and Hagen Hirschmann},
+  Booktitle                = {The Cambridge Handbook of Learner Corpus Research},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2015},
+
+  Address                  = {Cambridge},
+  Editor                   = {Sylviane Granger and Ga{\"e}tanelle Gilquin and Fanny Meunier},
+  Pages                    = {135-157},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.06.28}
+}
+
+@Article{MartinOpenGreekLatin2017,
+  Title                    = {Open {{Greek}} and {{Latin Data}} for the {{Challenges}} of the {{Fragmentary State}} of the {{Primary Sources}} for the {{Pentekontaetia}}},
+  Author                   = {Martin, Thomas R. and Berti, Monica},
+  Number                   = {3},
+  Pages                    = {409--436},
+  Volume                   = {14},
+
+  Date                     = {2017},
+  Journaltitle             = {Mouseion: Journal of the Classical Association of Canada},
+  Langid                   = {english}
+}
+
+@Book{McEneryHardie2012,
+  Title                    = {Corpus Linguistics: Method, Theory and Practice},
+  Author                   = {McEnery, Tony and Hardie, Andrew},
+  Publisher                = {{Cambridge University Press}},
+  Year                     = {2012},
+
+  Address                  = {Cambride [u.a.]},
+  Series                   = {Cambridge Textbooks in Linguistics},
+
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.06}
+}
+
+@Book{McEneryXiaoTono2006,
+  Title                    = {Corpus-based Language Studies. An Advanced Resource Book},
+  Author                   = {Tony McEnery and Richard Xiao and Yukio Tono},
+  Publisher                = {Routledge},
+  Year                     = {2006},
+
+  Address                  = {London},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14}
+}
+
+@InCollection{MilroyMilroy1978,
+  Title                    = {Belfast: Change and Variation in an Urban Vernacular},
+  Author                   = {James Milroy and Lesley Milroy},
+  Booktitle                = {Sociolinguistc Patterns in British English},
+  Publisher                = {Edward Arnold},
+  Year                     = {1978},
+
+  Address                  = {London},
+  Editor                   = {Peter Trudgill},
+
+  Owner                    = {anke},
+  Timestamp                = {2017.12.05}
+}
+
+@InCollection{Moisl2009,
+  Title                    = {Exploratory Multivariate Analysis},
+  Author                   = {Hermann Moisl},
+  Booktitle                = {Corpus Linguistics. An International Handbook},
+  Publisher                = {Mouton De Gruyter},
+  Year                     = {2009},
+  Editor                   = {Anke L\"{u}deling and Merja Kyt\"{o}},
+  Pages                    = {874-899},
+  Volume                   = {2},
+
+  File                     = {:D\:\\subversion\\HSK Korpuslinguistik\\Umbruchfahnen-unkorrigiert\\Moisl2009.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.02.26}
+}
+
+@Book{Moretti2007,
+  Title                    = {Graphs, Maps, Trees: Abstract Models for Literary History},
+  Author                   = {Moretti,Franco},
+  Publisher                = {Verso},
+  Year                     = {2007},
+
+  Address                  = {London and New York},
+
+  Abstract                 = {Distant reading},
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.06}
+}
+
+@Article{Nerbonne2006,
+  Title                    = {Identifying Linguistic Structure in Aggregate Comparison},
+  Author                   = {John Nerbonne},
+  Journal                  = {Literary and Linguistic Computing},
+  Year                     = {2006},
+  Number                   = {4},
+  Pages                    = {463--476},
+  Volume                   = {21},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2006},
+  Abstract                 = {Dialectometric techniques for analyzing variation in the aggregate are maturing
+rapidly, but there is still little agreement on how to extract linguistic structure
+from aggregate comparison. The present study explores one means of comparing
+aggregate analyses in order to determine linguistically concise characterizations of
+restrictions, essentially the use of factor analysis (FA). Using the Southern states
+data which Guy Lowman collected as part of LAMSAS, we apply FA to the vowels
+involved in aggregate analyses in order to determine which alternations in
+pronunciation tend most to co-occur.},
+  File                     = {Nerbonne2006-Identifying:.\\2006\\Nerbonne2006-Identifying.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.16}
+}
+
+@InCollection{Nerius2003,
+  Title                    = {Graphematische Entwicklungstendenzen in der Geschichte des Deutschen},
+  Author                   = {Dieter Nerius},
+  Booktitle                = {Sprachgeschichte. Ein Handbuch zur Geschichte der deutschen Sprache und ihrer Erforschung},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2003},
+
+  Address                  = {Berlin},
+  Edition                  = {2},
+  Editor                   = {Werner Besch and Anne Betten and Oskar Reichmann and Stefan Sonderegger},
+  Pages                    = {2461-2472},
+  Volume                   = {3},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Article{Oakes2009,
+  Title                    = {Corpus Linguistics and Language Variation},
+  Author                   = {Michael P. Oakes},
+  Journal                  = {Contemporary Corpus Linguistics},
+  Year                     = {2009},
+  Pages                    = {159--183},
+  Volume                   = {1},
+
+  File                     = {Oakes2009-Corpus:.\\2009\\Oakes2009-Corpus.pdf:PDF},
+  Keywords                 = {corpus linguistics, language variation},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08},
+  Url                      = {https://korpling.german.hu-berlin.de/svn/bibliographie/2009}
+}
+
+@InBook{Oakes1998,
+  Title                    = {Statistics for Corpus Linguistics},
+  Author                   = {Michael P. Oakes},
+  Publisher                = {Edinburgh University Press Edinburgh},
+  Year                     = {1998},
+
+  _chapter                 = {Basic Statistics},
+  _pages                   = {1--17},
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1998},
+  _volume                  = {210},
+  File                     = {Oakes1998-Statistics:.\\1998\\Oakes1998-Statistics.pdf:PDF},
+  Keywords                 = {statistic, corpus linguistics, data, score, sample, sampling, hypothesis testing},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@PhdThesis{Odebrecht2017,
+  Title                    = {MKM - ein Metamodell f{\"u}r Korpusmetadaten: Dokumentation und Wiederverwendung historischer Korpora},
+  Author                   = {Odebrecht, Carolin},
+  School                   = {{Humboldt-Universit{\"a}t zu Berlin}},
+  Year                     = {2017},
+
+  Address                  = {Berlin},
+
+  Owner                    = {thomas},
+  Publisher                = {Institut f{\"u}r deutsche Sprache und Linguistik},
+  Timestamp                = {2018.07.09}
+}
+
+@Article{OdebrechtEtAl2016,
+  Title                    = {RIDGES Herbology - Designing a Diachronic Multi-Layer Corpus},
+  Author                   = {Carolin Odebrecht and Malte Belz and Amir Zeldes and Anke Lüdeling and Thomas Krause},
+  Journal                  = {Language Resources and Evaluation},
+  Year                     = {2016},
+
+  Doi                      = {10.1007/s10579-016-9374-3},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.04.30}
+}
+
+@InCollection{PahtaTaavitsainen2010,
+  Title                    = {Scientific Discourse},
+  Author                   = {Päivi Pahta and Irma Taavitsainen},
+  Booktitle                = {Historical Pragmatics},
+  Publisher                = {de Gruyter},
+  Year                     = {2010},
+  Editor                   = {Andreas H. Jucker and Irma Taavitsainen},
+  Number                   = {8},
+  Pages                    = {549-586},
+  Series                   = {Handbook of Pragmatics},
+
+  File                     = {:D\:\\subversion\\Papiere von anderen\\PahtaTaavitsainenScientificDiscourse2010.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.03.28}
+}
+
+@Book{Piotrowski2012,
+  Title                    = {Natural Language Processing for Historical Texts},
+  Author                   = {Michael Piotrowski},
+  Publisher                = {Morgan \& Claypool Publishers},
+  Year                     = {2012},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.07.06}
+}
+
+@Book{VonPolenz1991,
+  Title                    = {Deutsche Sprachgeschichte vom Spätmittelalter bis zur Gegenwart. 1, Einführung, Grundbegriffe, Deutsch in der frühbürgerlichen Zeit},
+  Author                   = {von Polenz, Peter},
+  Publisher                = {De Gruyter},
+  Year                     = {1991},
+
+  Date-added               = {2017-02-28 10:14:18 +0000},
+  Date-modified            = {2017-02-28 10:15:11 +0000},
+  Location                 = {Berlin},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.04}
+}
+
+@InProceedings{RaghebDickinson2011,
+  Title                    = {Avoiding the Comparative Fallacy in the Annotation of Learner Corpora},
+  Author                   = {Ragheb, Marwa and Dickinson, Markus},
+  Booktitle                = {Selected Proceedings of the 2010 Second Language Research Forum: Reconsidering SLA Research, Dimensions, and Directions},
+  Year                     = {2011},
+
+  Address                  = {Somerville, MA},
+  Editor                   = {Gisela Granena and Joel Koeth and Sunyoung Lee-Ellis and Anna Lukyanchenko and Goretti Prieto Botana and Elizabeth Rhoades},
+  Pages                    = {114--124},
+  Publisher                = {Cascadilla Proceedings Project},
+
+  Abstract                 = {Annotated corpora of learner language can be useful for SLA researchers
+ and FL teachers. Tagging phenomena with part of speech (POS) information
+ and grammatical relations between words can make it feasible to search
+ in a learner corpus for abstract grammatical properties not easily
+ captured through a lexical search (e.g., headless relative clauses).
+ One type of corpus annotation for learner language has focused on
+ so-called errors (e.g., Granger, 2003), using specific error tags
+ for phenomena that 'deviate' from the L2. Some of these schemes make
+ use of target hypotheses, attempting to capture the learner's intention.
+ These approaches risk falling into the comparative fallacy (Bley-Vroman,
+ 1983), since they try to map specific phenomena in interlanguage
+ to target categories in the L2. The task is even more challenging
+ with ambiguous utterances. In the same vein, it is undesirable to
+ bias any annotation in terms of the L1 (cf. Lakshmanan & Selinker,
+ 2001). A recent approach is to annotate interlanguage as it appears,
+ without focusing on errors (e.g., Diaz-Negrillo et al, 2010; Dickinson
+ and Ragheb, 2009). In providing linguistic annotation such as POS
+ tags or syntactic relations, one has to ensure that the annotation
+ supports different topics of SLA research, while avoiding the comparative
+ fallacy or inferring learner intention. This paper discusses the
+ ramifications of annotating syntactic properties in learner language
+ and pinpoints where annotation designers must be aware of the comparative
+ fallacy. Using different layers of annotation to capture variability
+ in learner language, the authors argue that one should annotate observable
+ linguistic properties that are clearly defined. They show how even
+ if one defines the properties in terms of the L2, a systematic description
+ of learner data can support L2 syntactic studies, provide insight
+ into interlanguage, and avoid inferring intention, putting the final
+ interpretation of the data in the hands of SLA researchers.},
+  File                     = {:D\:\\subversion\\Papiere von anderen\\RaghebDickinson2011-Avoiding.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2013.09.19}
+}
+
+@InCollection{Reichmann2000,
+  Title                    = {{Die Diagliederung des Frühneuhochdeutschen}},
+  Author                   = {Reichmann, Oskar},
+  Booktitle                = {{Sprachgeschichte.}},
+  Publisher                = {De Gruyter},
+  Year                     = {2000},
+  Editor                   = {Werner Besch and Anne Betten and Oskar Reichmann and Stefan Sonderegger},
+  Number                   = {2},
+  Pages                    = {1623--1626},
+  Volume                   = {2},
+
+  Bookpagination           = {page},
+  Booksubtitle             = {Ein Handbuch zur Geschichte der deutschen Sprache und ihrer Erforschung},
+  Location                 = {Berlin},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@InProceedings{ReulSpringmannPuppe2017,
+  Title                    = {{LAREX – A semi-automatic open-source Tool for Layout
+ Analysis and Region Extraction on Early Printed Books}},
+  Author                   = {Christian Reul and Uwe Springmann and Frank Puppe},
+  Booktitle                = {Proceedings of the Second International Conference on
+ Digital Access to Textual Cultural Heritage (DATeCH2017),
+ Göttingen, June 1-2, 2017},
+  Year                     = {2017},
+  Organization             = {ACM},
+  Pages                    = {137-142},
+
+  Doi                      = {10.1145/3078081.3078097},
+  Url                      = {http://www.springmann.net/papers/2017-DATeCH-Reul.pdf}
+}
+
+@InCollection{Riecke2007,
+  Title                    = {Beiträge zum mittelalterlichen deutschen Wortschatz der Heilkunde},
+  Author                   = {Riecke, Jörg},
+  Booktitle                = {Gesund und krank im Mittelalter. Marburger Beiträge zur Kulturgeschichte der Medizin},
+  Publisher                = {Eudora-Verlag},
+  Year                     = {2007},
+
+  Address                  = {Leipzig},
+  Editor                   = {Meyer, Andreas and Schulz-Grobert, Jürgen},
+  Pages                    = {89-106},
+
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Riecke2007Heilkundewortschatz.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.04.22}
+}
+
+@InCollection{Riecke2007a,
+  Title                    = {Beiträge zum mittelalterlichen deutschen Wortschatz der Heilkunde},
+  Author                   = {Riecke, Jörg},
+  Booktitle                = {Gesund und krank im Mittelalter. Marburger Beiträge zur Kulturgeschichte der Medizin},
+  Publisher                = {Eudora-Verlag},
+  Year                     = {2007},
+
+  Address                  = {Leipzig},
+  Editor                   = {Meyer, Andreas and Schulz-Grobert, Jürgen},
+  Pages                    = {89-106},
+
+  File                     = {:D\:\\subversion\\Papiere von anderen\\Riecke2007Heilkundewortschatz.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.04.22}
+}
+
+@Book{Riecke2004,
+  Title                    = {Die Frühgeschichte der mittelalterlichen medizinischen Fachsprache im Deutschen},
+  Author                   = {Jörg Riecke},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2004},
+
+  Address                  = {Berlin},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2014.11.19}
+}
+
+@Book{Riecke2004a,
+  Title                    = {Die Frühgeschichte der mittelalterlichen medizinischen Fachsprache im Deutschen},
+  Author                   = {Jörg Riecke},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2004},
+
+  Address                  = {Berlin},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2014.11.19}
+}
+
+@InCollection{Robins1986,
+  Title                    = {The Techn\^{e} Grammatik\^{e} of Dionysius Thrax in its Historical Perspective: The Evolution of the Traditional European Word Class System},
+  Author                   = {Robert H. Robins},
+  Booktitle                = {Mot et parties du discours. Word and word Classes. Wort und Wortarten},
+  Publisher                = {Leuven University Press},
+  Year                     = {1986},
+  Editor                   = {Pierre Swiggers and Willy van Hoecke},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2016.06.08}
+}
+
+@Article{Romaine1981,
+  Title                    = {On the Problem of Syntactic Variation: A Reply to Beatriz Lavandera and William Labov.},
+  Author                   = {Suzanne Romaine},
+  Journal                  = {Sociolinguistic Working Paper},
+  Year                     = {1981},
+  Pages                    = {3--40},
+  Volume                   = {82},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1981},
+  File                     = {Romaine1981-On:.\\1981\\Romaine1981-On.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InProceedings{RuetteSpeelman2012,
+  Title                    = {Applying Individual Differences Scaling to the measurement of lexical convergence between Netherlandic and Belgian Dutch},
+  Author                   = {Tom Ruette and Dirk Speelman},
+  Booktitle                = {Proceedings of the 11th International Conference on Textual Data Statistical Analysis},
+  Year                     = {2012},
+  Editor                   = {Anne Dister and Dominique Longrée and Gérald Purnelle},
+  Pages                    = {883--895},
+
+  Abstract                 = {This paper addresses the problem that in studies which aggregate many linguistic variables with the goal of revealing
+the structure of language varieties, the explanatory power is reduced by the fact that the behavior of the underlying
+linguistic variables is completely obscured. An existing, but in linguistics only rarely applied Multidimensional
+Scaling technique, called Individual Differences Scaling, is presented and applied to a dataset that captures lexical
+convergence between Belgian and Netherlandic Dutch during a period of 40 years. The application of Individual
+Differences Scaling does not only give an insight in the aggregated behavior of the lexical variables, but also
+shows how the individual lexical variables differ from each other.},
+  File                     = {RuetteSpeelman2012-Applying:.\\2012\\RuetteSpeelman2012-Applying.pdf:PDF},
+  Keywords                 = {Individual Differences Scaling, INDSCAL, aggregation, variational linguistics},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.16},
+  Url                      = {https://korpling.german.hu-berlin.de/svn/bibliographie/2012}
+}
+
+@Article{Rydberg2009,
+  Title                    = {Digitizing Latin incunabula: Challenges, methods, and possibilities},
+  Author                   = {Rydberg-Cox, Jeffrey A.},
+  Journal                  = {Digital Humanities Quarterly},
+  Year                     = {2009},
+  Number                   = {1},
+  Volume                   = {3},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17}
+}
+
+@InProceedings{Schaefer2015,
+  Title                    = {Processing and querying large web corpora with the {COW14} architecture},
+  Author                   = {Roland Schäfer},
+  Booktitle                = {Proceedings of Challenges in the Management of Large Corpora 3 (CMLC-3)},
+  Year                     = {2015},
+
+  Address                  = {Lancaster},
+  Editor                   = {Piotr Bański and Hanno Biber and Evelyn Breiteneder and Marc Kupietz and Harald Lüngen and Andreas Witt},
+  Organization             = {UCREL},
+  Publisher                = {IDS},
+
+  Abstract                 = {In this paper, I present the COW14 tool chain, which comprises a web corpus creation tools called texrex, wrappers for existing linguistic annotation tools as well as an online query software called Colibri2 . By detailed descriptions of the implementation and systematic evaluations of the performance of the software on different types of systems, I show that the COW14 architecture is capable of handling the creation of corpora of up to at least 100 billion tokens. I also introduce our running demo system which currently serves corpora of up to roughly 20 billion tokens in Dutch, Englisch, French, German, Spanish, and Swedish.},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14},
+  Url                      = {http://rolandschaefer.net/?p=749}
+}
+
+@InProceedings{SchaeferBildhauer2012,
+  Title                    = {Building Large Corpora from the Web Using a New Efficient Tool Chain},
+  Author                   = {Roland Schäfer and Felix Bildhauer},
+  Booktitle                = {Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)},
+  Year                     = {2012},
+
+  Address                  = {Istanbul, Turkey},
+  Editor                   = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Uğur Doğan and Bente Maegaard and Joseph Mariani and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
+  Pages                    = {486--493},
+  Publisher                = {European Language Resources Association (ELRA)},
+
+  Abstract                 = {Over the last decade, methods of web corpus construction and the evaluation of web corpora have been actively researched. Prominently, the WaCky initiative has provided both theoretical results and a set of web corpora for selected European languages. We present a software toolkit for web corpus construction and a set of siginificantly larger corpora (up to over 9 billion tokens) built using this software. First, we discuss how the data should be collected to ensure that it is not biased towards certain hosts. Then, we describe our software toolkit which performs basic cleanups as well as boilerplate removal, simple connected text detection as well as shingling to remove duplicates from the corpora. We finally report evaluation results of the corpora built so far, for example w. r. t. the amount of duplication contained and the text type/genre distribution. Where applicable, we compare our corpora to the WaCky corpora, since it is inappropriate, in our view, to compare web corpora to traditional or balanced corpora. While we use some methods applied by the WaCky initiative, we can show that we have introduced incremental improvements.},
+  Date                     = {23-25},
+  ISBN                     = {978-2-9517408-7-7},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14},
+  Url                      = {http://rolandschaefer.net/?p=70}
+}
+
+@Book{ScharfHyman2010,
+  Title                    = {Linguistic Issues in Eencoding Sanskrit},
+  Author                   = {Peter M. Scharf and Malcolm D. Hyman},
+  Publisher                = {The Sanskrit Library},
+  Year                     = {2010},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.17},
+  Url                      = {http://www.sanskritlibrary.org/Sanskrit/pub/lies_sl.pdf}
+}
+
+@InCollection{Schmid2008,
+  Title                    = {Tokenizing and Part-of-Speech Tagging},
+  Author                   = {Schmid, Helmut},
+  Booktitle                = {Corpus Linguistics. An International Handbook},
+  Publisher                = {Mouton de Gruyter},
+  Year                     = {2008},
+
+  Address                  = {Berlin},
+  Chapter                  = {24},
+  Editor                   = {L\"{u}deling, Anke and Kyt\"{o}, Merja},
+  Pages                    = {527-551},
+  Series                   = {HSK},
+  Volume                   = {1},
+
+  File                     = {:D\:\\subversion\\HSK Korpuslinguistik\\Umbruchfahnen-unkorrigiert\\Schmid2008.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2013.09.01}
+}
+
+@InCollection{Schmidt2014,
+  Title                    = {EXMARaLDA},
+  Author                   = {Thomas Schmidt and Kai Wörner},
+  Booktitle                = {Handbook on Corpus Phonology},
+  Publisher                = {Oxford University Press},
+  Year                     = {2014},
+  Editor                   = {Jacques Durand, Ulrike Gut and Gjert Kristoffersen},
+  Pages                    = {402-419},
+
+  Owner                    = {thomas},
+  Timestamp                = {2017.10.12},
+  Url                      = {http://ukcatalogue.oup.com/product/9780199571932.do}
+}
+
+@InProceedings{Schmidt2011,
+  Title                    = {New and future developments in EXMARaLDA},
+  Author                   = {Thomas Schmidt and Kai Wörner and Hanna Hedeland and Timm Lehmberg},
+  Booktitle                = {Multilingual Resources and Multilingual Applications. Proceedings of GSCL Conference 2011 Hamburg.},
+  Year                     = {2011},
+  Editor                   = {Thomas Schmidt and Kai Wörner},
+
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.12},
+  Url                      = {http://www.exmaralda.org/files/Exmaralda_GSCL2011.pdf}
+}
+
+@InCollection{Simmler2003,
+  Title                    = {Geschichte der Interpunktionssysteme im Deutschen},
+  Author                   = {Franz Simmler},
+  Booktitle                = {Sprachgeschichte. Ein Handbuch zur Geschichte der deutschen Sprache und ihrer Erforschung},
+  Publisher                = {Walter de Gruyter},
+  Year                     = {2003},
+
+  Address                  = {Berlin},
+  Edition                  = {2},
+  Editor                   = {Werner Besch and Anne Betten and Oskar Reichmann and Stefan Sonderegger},
+  Pages                    = {2472-2504},
+  Volume                   = {3},
+
+  Owner                    = {anke},
+  Timestamp                = {2018.07.08}
+}
+
+@Manual{Springmann2015,
+  Title                    = {Ocrocis. A high accuracy OCR method to convert early printings into digital text. A Tutorial},
+  Author                   = {Uwe Springmann},
+  Organization             = {Ludwig-Maximilians-Universität München},
+  Year                     = {2015},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.05.22},
+  Url                      = {http://cistern.cis.lmu.de/ocrocis/tutorial.pdf}
+}
+
+@Article{SpringmannLuedeling2017,
+  Title                    = {Progress of OCR of early printings exemplified by the RIDGES herbal corpus},
+  Author                   = {Uwe Springmann and Anke Lüdeling},
+  Journal                  = {Digital Humanities Quarterly},
+  Year                     = {2017},
+  Number                   = {2},
+  Volume                   = {11},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.11.10},
+  Url                      = {http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html}
+}
+
+@InCollection{Squires2010,
+  Title                    = {Konstantes und Variables im Aufbau von deutschen mittelalterlichen heilkundlichen Texten und angrenzenden Textsorten},
+  Author                   = {Catherine Squires},
+  Booktitle                = {Diachronie, Althochdeutsch, Mittelhochdeutsch 1: Historische Textgrammatik und Historische Syntax des Deutschen},
+  Publisher                = {De Gruyter},
+  Year                     = {2010},
+  Pages                    = {561--588},
+  Volume                   = {1},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/2010},
+  File                     = {Squires2010-Konstantes:.\\2010\\Squires2010-Konstantes.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.14}
+}
+
+@InCollection{Szmrecsanyi2013,
+  Title                    = {Aggregate data analysis in variationist linguistics},
+  Author                   = {Benedikt Szmrecsanyi},
+  Booktitle                = {Research Methods in Language Variation and Change},
+  Publisher                = {Cambridge: Cambridge University Press},
+  Year                     = {2013},
+
+  Address                  = {Cambridge},
+  Editor                   = {Manfred Krug and Julia Schlüter},
+  Pages                    = {433-455},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/toappear},
+  Abstract                 = {We present methodologies to conduct aggregate data analysis in variationist
+linguistics. Aggregate data analysis draws on techniques that combine data from
+multiple measurements. In this spirit, we present three case studies on the empirical
+basis of either naturalistic corpus data or survey data: first, text type variation in
+terms of overt grammatical analyticity and syntheticity in standard British English;
+second, determinants of aggregate morphosyntactic variability in traditional British
+English dialects; and third, aggregate morphosyntactic distances between World
+Englishes. We discuss advantages, limitations, and problems inherent in aggregate
+data analysis, and sketch the range of possible applications.},
+  File                     = {Szmrecsanyi-Aggregate:.\\toappear\\Szmrecsanyi-Aggregate.pdf:PDF},
+  Owner                    = {anke},
+  Timestamp                = {2018.07.16}
+}
+
+@Article{TaavitsainenEtAl2014,
+  Title                    = {Late Modern English Medical Texts 1700–1800: A corpus for analysing eighteenth-century medical English},
+  Author                   = {Taavitsainen, Irma and Hiltunen, Turo and Lehto, Anu and Marttila, Ville and Pahta, Päivi and Ratia, Maura and Suhr, Carla and Tyrkkö, Jukka},
+  Journal                  = {ICAME Journal},
+  Year                     = {2014},
+  Pages                    = {137-153},
+  Volume                   = {38},
+
+  Doi                      = {10.2478/icame-2014-0007},
+  File                     = {:D\:\\subversion\\Papiere von anderen\\TaavitsainenEtAlLateModernEnglishMedicalTexts2014.pdf:PDF},
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.04.22}
+}
+
+@Article{Tarone1979,
+  Title                    = {Interlanguage as Chameleon},
+  Author                   = {Elaine Tarone},
+  Journal                  = {Language Learning},
+  Year                     = {1979},
+  Number                   = {1},
+  Pages                    = {181--191},
+  Volume                   = {29},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1979},
+  Abstract                 = {The clam is made that Labov’s “Observor’s Paradox” and the fire
+methodologxal axloma leadmg to thm paradox apply to interlanguage
+Thus, we may mew interlanguage as a conbnuum of styles, wheh 18
+defined by the amount of attenbon paid to speech. the m6st systemat.lc
+second-language learner speech is produced when the learner 18 paying the
+least attention to speech. Yet, when we do rmmarch, the presence of the
+researcher and the tasks presented to the learner. lead our subjects to pay
+atenbon to thew speech. Therefore, we cannot claim that research can ever
+obeeme the most truly systemabc form of a learner’s interlanguage
+unattended or “unmomtord” speech The methodologwal Implicabons of
+h e claim are explored, and recommendations for research are made},
+  File                     = {Tarone1979-Interlanguage:.\\1979\\Tarone1979-Interlanguage.pdf:PDF},
+  Owner                    = {anke},
+  Publisher                = {Wiley Online Library},
+  Timestamp                = {2018.07.17}
+}
+
+@Article{RTeam2015,
+  Title                    = {R: A language and environment for statistical computing},
+  Author                   = {Team, R Core and others},
+  Year                     = {2015},
+
+  Owner                    = {thomas},
+  Publisher                = {Vienna, Austria},
+  Timestamp                = {2018.07.17}
+}
+
+@InCollection{WegeraPrell2000,
+  Title                    = {Wortbildung des Frühneuhochdeutschen},
+  Author                   = {Klaus-Peter Wegera and Hans-Peter Prell},
+  Booktitle                = {Sprachgeschichte},
+  Publisher                = {de Gruyter},
+  Year                     = {2000},
+
+  Address                  = {Berlin},
+  Chapter                  = {115},
+  Editor                   = {Werner Besch and Anne Betten and Oskar Reichmann and Stefan Sonderegger},
+  Pages                    = {1594-1605},
+  Volume                   = {2},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2015.06.25}
+}
+
+@Article{WeinerLabov1983,
+  Title                    = {Constraints on the Agentless Passive},
+  Author                   = {E. Judith Weiner and William Labov},
+  Journal                  = {Journal of Linguistics},
+  Year                     = {1983},
+  Number                   = {1},
+  Pages                    = {29--58},
+  Volume                   = {19},
+
+  _url                     = {https://korpling.german.hu-berlin.de/svn/bibliographie/1983},
+  Abstract                 = {This paperi s a quantitatives tudy of the factors that determine the selection
+of passive constructions over active ones by English speakers.1 By examining
+a large body of passives used in spontaneous speech, together with the
+sentences that show an opposing choice, we are able to throw light on
+the crucial question of which syntactic and which semantic features of the
+environment act to constrain the choice and whether syntactic or semantic
+factorsp redominate in this case. In the course of the analysis, we will also
+have something to say about the social factors that have been reported to
+determine the use of the passive.},
+  File                     = {WeinerLabov1983-Constraints:.\\1983\\WeinerLabov1983-Constraints.pdf:PDF},
+  Owner                    = {anke},
+  Publisher                = {Cambridge Univ Press},
+  Timestamp                = {2018.07.17}
+}
+
+@Book{Wickham2016,
+  Title                    = {ggplot2: elegant graphics for data analysis},
+  Author                   = {Wickham, Hadley},
+  Publisher                = {Springer},
+  Year                     = {2016},
+
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.17}
+}
+
+@Article{Wickham2011,
+  Title                    = {The split-apply-combine strategy for data analysis},
+  Author                   = {Wickham, Hadley and others},
+  Journal                  = {Journal of Statistical Software},
+  Year                     = {2011},
+  Number                   = {1},
+  Pages                    = {1--29},
+  Volume                   = {40},
+
+  Owner                    = {thomas},
+  Publisher                = {Citeseer},
+  Timestamp                = {2018.07.17}
+}
+
+@Book{YousefWordAlignmentNamedEntity2015,
+  Title                    = {Word {{Alignment}} and {{Named}}-{{Entity Recognition Applied}} to {{Greek Text Reuses}}},
+  Author                   = {Yousef, Tariq},
+  Publisher                = {{Universität Leipzig}},
+  Volume                   = {Masterarbeit},
+
+  Date                     = {2015},
+  Langid                   = {english},
+  Location                 = {{Leipzig}},
+  Pagetotal                = {64}
+}
+
+@InCollection{YousefDigitalFragmentaHistoricorum2015,
+  Title                    = {The {{{\emph{Digital Fragmenta Historicorum Graecorum}}}} and the {{Ancient Greek}}-{{Latin Dynamic Lexicon}}},
+  Author                   = {Yousef, Tariq and Berti, Monica},
+  Booktitle                = {Proceedings of the {{Workshop}} on {{Corpus}}-{{Based Research}} in the {{Humanities}} ({{CRH}}), 10 {{December}} 2015 {{Warsaw}}, {{Poland}}},
+  Publisher                = {{Institute of Computer Science, Polish Academy of Science}},
+  Editor                   = {Mambrini, Francesco and Passarotti, Marco and Sporleder, Caroline},
+  Pages                    = {117-123},
+
+  Date                     = {2015},
+  Langid                   = {english},
+  Location                 = {{Warszawa}}
+}
+
+@InProceedings{Zipser2010,
+  Title                    = {A model oriented approach to the mapping of annotation formats using standards.},
+  Author                   = {Florian Zipser and Laurent Romary},
+  Booktitle                = {Workshop on Language Resource and Language Technology Standards, LREC 2010},
+  Year                     = {2010},
+
+  Abstract                 = {In this paper, we present, Salt, a framework for mapping heterogeneous linguistic annotation formats into each other using a model-based approach, i.e. independently of the actual formats in which the corresponding linguistic data is being expressed. As we describe the underlying concept of this framework, we identify how it echoes ongoing standardisation activities within ISO committee TC 37/SC 4, and in particular, the possible conceptual equivalences with ISO CD 24612 (LAF) combined with ISO 24610-1 (FSR), as well as the possible role of the central data category registry (ISOCat), currently under deployment. We thus show the adequacy of our methodology and its capacity to integrate a wide range of possible linguistic annotation models.},
+  File                     = {Zipser2010.pdf:literature/Zipser2010.pdf:PDF},
+  Owner                    = {thomas},
+  Review                   = {This concept of highly heterogeneous annotations can be represented in a unified way using graphs, as it was done e.g. in the Salt meta-model [Zipser2010]},
+  Timestamp                = {2013.11.13},
+  Url                      = {http://hal.archives-ouvertes.fr/inria-00527799/}
+}
+
+@Book{GrangerGilquinMeunier2015,
+  Title                    = {The Cambridge Handbook of Learner Corpus Research},
+  Editor                   = {Sylviane Granger and Ga{\"e}tanelle Gilquin and Fanny Meunier},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2015},
+
+  Address                  = {Cambridge},
+
+  Owner                    = {Lüdeling},
+  Timestamp                = {2016.03.13}
+}
+
+@Book{TEI2018,
+  Title                    = {TEI P5: Guidelines for electronic text encoding and interchange. 3.3.0. 2018-01-31},
+  Editor                   = {{TEI Consortium}},
+  Year                     = {2018},
+
+  Owner                    = {thomas},
+  Timestamp                = {2018.07.12},
+  Url                      = {http://www.tei-c.org/Guidelines/P5/}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}
+
+@techreport{Westpfahl2017,
+  type      = {Working Paper},
+  author    = {Swantje Westpfahl and Thomas Schmidt and Jasmin Jonietz and Anton Borlinghaus},
+  title     = {STTS 2.0. Guidelines f{\"u}r die Annotation von POS -Tags f{\"u}r Transkripte gesprochener Sprache in Anlehnung an das Stuttgart T{\"u}bingen Tagset (STTS)},
+  edition   = {Version 1.1, M{\"a}rz 2017},
+  url       = {http://nbn-resolving.de/urn:nbn:de:bsz:mh39-60634},
+  pages     = {53},
+  year      = {2017},
+  abstract  = {Die Guidelines sind eine Erweiterung des STTS (Schiller et al. 1999) f{\"u}r die Annotation von Transkripten gesprochener Sprache. Dieses Tagset basiert auf der Annotation des FOLK-Korpus des IDS Mannheim (Schmidt 2014) und es wurde gegen{\"u}ber dem STTS erweitert in Hinblick auf typisch gesprochensprachliche Ph{\"a}nomene bzw. Eigenheiten der Transkription derselben. Es entstand im Rahmen des Dissertationsprojekts „POS f{\"u}r(s) FOLK – Entwicklung eines automatisierten Part-of-Speech-Tagging von spontansprachlichen Daten“ (Westpfahl 2017 (i.V.)).},
+  language  = {de}
+}
