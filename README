@@ -1,9 +1,0 @@
-Prerequisites
--------------
-
-Install Pandoc (https://pandoc.org/) for converting the markdown files to HTML.
-
-Compiling the slides
---------------------
-
-You can execute pandoc manually on the command line, use the predefined VS Code tasks or use make.
