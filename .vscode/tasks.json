@@ -12,7 +12,7 @@
         {
             "label": "Pandoc",
             "type": "shell",
-            "command": "pandoc -t revealjs -s --filter pandoc-citeproc --template=templates/default.revealjs ${file} -o ${fileBasenameNoExtension}.html ",
+            "command": "pandoc -t revealjs -s --filter pandoc-citeproc --template=templates/default.revealjs ${file} -o ${fileBasenameNoExtension}.html",
             "problemMatcher": []
         },
         {
