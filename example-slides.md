@@ -10,7 +10,7 @@ center: 'false'
 slideNumber: 'true'
 bibliography: 'literature.bib'
 link-citations: no
-mathjaxurl: "MathJax-release-2.7.4-electron/MathJax.js"
+mathjaxurl: 'mathjax/MathJax.js'
 ---
 
 # Motivation
@@ -63,7 +63,7 @@ You can have columns by using divs with styles
 
 - Everything works perfectly
 - Research Question was answered
-- $p > 1.5$
+- $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
 ## Thank You Slides
 

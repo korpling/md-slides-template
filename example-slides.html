@@ -81,7 +81,7 @@ You can have columns by using divs with styles
 <ul>
 <li>Everything works perfectly</li>
 <li>Research Question was answered</li>
-<li><span class="math inline"><em>p</em> &gt; 1.5</span></li>
+<li><span class="math inline">\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)</span></li>
 </ul>
 </section><section id="thank-you-slides" class="slide level2">
 <h2>Thank You Slides</h2>
@@ -110,11 +110,28 @@ You can have columns by using divs with styles
         history: true,
         // Vertical centering of slides
         center: false,
+        math: {
+          mathjax: 'mathjax/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
 
         // Optional reveal.js plugins
         dependencies: [
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/math/math.js', async: true },
           { src: 'reveal.js/plugin/notes/notes.js', async: true }
         ]
       });
