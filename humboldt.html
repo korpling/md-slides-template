@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>humboldt</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section class="slide level6">
+
+<p>/** * White theme for reveal.js. This is the opposite of the ‘black’ theme. <em> </em> By Hakim El Hattab, http://hakim.se */</p>
+<p>// Default mixins and settings —————– <span class="citation" data-cites="import">(<span class="citeproc-not-found" data-reference-id="import"><strong>???</strong></span>)</span> “template/mixins”; <span class="citation" data-cites="import">(<span class="citeproc-not-found" data-reference-id="import"><strong>???</strong></span>)</span> “template/settings”; // ———————————————</p>
+<p>// Include theme-specific fonts <span class="citation" data-cites="import">(<span class="citeproc-not-found" data-reference-id="import"><strong>???</strong></span>)</span> url(../../lib/font/junicode/Junicode.css); <span class="citation" data-cites="import">(<span class="citeproc-not-found" data-reference-id="import"><strong>???</strong></span>)</span> url(../../lib/font/source-code-pro/source-code-pro.css);</p>
+<p>$HuBlue: rgb(0,55,108); $HuGreen: rgb(0,87,44); $HuAlert: rgb(251, 63, 62);</p>
+<p>// Override theme settings (see ../template/settings.scss) $backgroundColor: #fff;</p>
+<p>$mainColor: #222; $headingColor: #222;</p>
+<p>$mainFontSize: 28px; $mainFont: ‘Junicode’, ‘Times New Roman’, serif; $headingFont: ‘Junicode’, ‘Times New Roman’, serif; $headingTextShadow: none; $headingLetterSpacing: normal; $headingTextTransform: none; $headingFontWeight: normal; $headingMargin: 0 0 $blockMargin 0; $linkColor: #2a76dd; $linkColorHover: lighten( $linkColor, 15% ); $selectionBackgroundColor: lighten( $linkColor, 25% );</p>
+<p>$heading1Size: 2.5em; $heading2Size: 1.6em; $heading3Size: 1.3em; $heading4Size: 1.0em;</p>
+<p>section.has-dark-background { &amp;, h1, h2, h3, h4, h5, h6 { color: #fff; } }</p>
+<p>// Theme template —————————— <span class="citation" data-cites="import">(<span class="citeproc-not-found" data-reference-id="import"><strong>???</strong></span>)</span> “template/theme”; // ———————————————</p>
+<p>.reveal {</p>
+<pre><code>section {
+    text-align: left;
+    padding: 0px;
+}
+
+
+section img {
+    border-style: none;
+    border-width: 0px;
+    box-shadow: none;
+}
+
+h1.title {
+    padding-right: 150px;
+}
+
+h2 {
+    color:#ffffff !important;
+    background-color: $HuBlue;
+    font-size: 32px;
+    text-align: left;
+    padding: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+code {
+    font-family: &#39;Source Code Pro&#39;, monospace;
+}
+
+pre {
+    font-size: $mainFontSize;
+}
+
+.center {
+    text-align: center;
+}
+
+
+#title-slide {
+    background-image: url(../../../image/logo.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: right 0px top 0px;
+}
+
+.references {
+    font-size: 24px !important;
+}
+
+.alert {
+    color: $HuAlert;
+}
+
+.small {
+    font-size: $mainFontSize*0.8
+}
+
+.large {
+    font-size: $mainFontSize*1.5
+}
+
+.huge {
+    font-size: $mainFontSize*2.0
+}
+
+
+.underline {
+    text-decoration: underline;
+}</code></pre>
+<p>}</p>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>

@@ -56,22 +56,21 @@ Here is a list of already existing styles that you can use:
 - `alert` for text that should be marked as extra important
 - `small`, `large` and `huge` alter the font-size
 - `underline` creates underlined text
-- `col-container` is a wrapper style around divs with the style `col` to create columns, e.g.
+- `columns` is a wrapper style around divs with the style `column` to create columns, e.g.
 ```
-::: {.center .col-container}
 
-::: col
+
+:::::::::::::: {.columns}
+::: {.column width="30%"}
 
 *First column*
 
-::: 
-
-::: col
+:::
+::: {.column width="70%"}
 
 *Second column*
 
 :::
 
-:::
+::::::::::::::
 ```
-

@@ -31,6 +31,32 @@ mathjaxurl: "MathJax-release-2.7.4-electron/MathJax.js"
 
 :::
 
+## How
+
+:::::::::::::: {.columns}
+::: {.column width="30%"}
+You can have columns by using divs with styles
+:::
+::: {.column width="70%"}
+
+```
+:::::::::::::: {.columns}
+::: {.column width="30%"}
+You can have columns by using divs with styles
+:::
+::: {.column width="70%"}
+[inception style content]
+:::
+
+::::::::::::::
+
+
+```
+
+
+:::
+::::::::::::::
+
 # Conclusion
 
 ## Results
