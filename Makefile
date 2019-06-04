@@ -11,7 +11,7 @@ all: $(patsubst %.md,%.html, ${SRC_FILES})
 	pandoc ${PANDOC_SELFCONTAINED_FLAGS} ${PANDOC_FLAGS} $< -o $@
 
 css:
-	sass reveal.js/css/theme/humboldt.scss reveal.js/css/theme/humboldt.css 
+	sass lib/revealjs/css/theme/humboldt.scss lib/revealjs/css/theme/humboldt.css 
 
 clean:
 	rm -f *.html

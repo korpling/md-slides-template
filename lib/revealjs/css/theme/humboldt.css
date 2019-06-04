@@ -296,7 +296,7 @@ body {
 .reveal .center {
   text-align: center; }
 .reveal #title-slide {
-  background-image: url(../../../image/logo.png);
+  background-image: url(../../../../image/logo.png);
   background-repeat: no-repeat;
   background-size: 200px 200px;
   background-position: right 0px top 0px; }

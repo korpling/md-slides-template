@@ -10,7 +10,8 @@ center: 'false'
 slideNumber: 'true'
 bibliography: 'literature.bib'
 link-citations: no
-mathjaxurl: 'mathjax/MathJax.js'
+revealjs-url: lib/revealjs
+mathjaxurl: 'lib/mathjax/MathJax.js'
 ---
 
 # Motivation
