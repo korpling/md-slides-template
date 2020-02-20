@@ -11,7 +11,7 @@ slideNumber: 'true'
 bibliography: 'literature.bib'
 link-citations: no
 revealjs-url: lib/revealjs
-mathjaxurl: 'lib/mathjax/MathJax.js'
+mathjaxurl: 'lib/mathjax/'
 ---
 
 # Motivation

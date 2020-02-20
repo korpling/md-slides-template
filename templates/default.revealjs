@@ -237,7 +237,7 @@ $endif$
 $if(mathjax)$
         math: {
           mathjax: '$mathjaxurl$',
-          config: 'TeX-AMS_HTML-full',
+          config: 'tex-chtml',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
             displayMath: [['\\[','\\]']],
