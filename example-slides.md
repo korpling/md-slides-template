@@ -64,7 +64,7 @@ You can have columns by using divs with styles
 
 - Everything works perfectly
 - Research Question was answered
-- $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+- $x =  \frac{-b \pm \sqrt{b^2-4ac}}{2a}$
 
 ## Thank You Slides
 
